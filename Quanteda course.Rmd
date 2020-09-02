@@ -1,0 +1,217 @@
+---
+title: "Quanteda course"
+output: html_notebook
+---
+
+
+
+## User Notes
+
+This is a Data Preparation Notebook for the Quanteda course organized from Sep 30 to Oct 2. Extracted from the QTA repository on Github (Breznau, Nguyen, Heukamp): https://github.com/hungnguyen167/QTA (ask for permission to join).
+
+### Goals:
+
+
+A. *To identify all Drucksachen that relate to social policy* (redistribution, basic provisions, housing, pensions, health care, unemployment, active labor market policies, etc) from 1980-present. However, in this example we use only the 9th Bundestag. We are trying to first apply a dictionary and a negative-dictionary to the titles of the Drucksachen. 
+
+B. *To analyze the content of each social policy Drucksachen* to learn:
+
+  B.1. What policy is being discussed
+  B.2. What is the direction of the discussion (positive, negative, neutral)
+  B.3. How does this discussion differ by parties/politicians
+
+
+
+### Instructions for this code:
+
+1. Create a folder called Bundestag Drucksachen in your preferred working directory
+
+2. Change the value of lwd (below)
+
+3. In the Bundestag Drucksachen folder, extract xml files from the zip file to a subfolder called drs09 (1980-1983). 
+
+4. Make sure you also have the following files in the BD folder: dict.txt, negdict.txt
+
+5. Start running the chunks below.
+
+
+## Extract data from zip files
+
+### Load libraries and initial setups
+
+
+```{r lib, message = FALSE}
+rm(list=ls())
+
+library(pacman)
+
+pacman::p_load("quanteda", "XML", "xml2")
+
+#Long wd. Put 18 folders for 18 voting periods in the parent folder called Bundestag Drucksachen. 
+lwd <- "C:/data/Bundestag Drucksachen"
+
+#Paste function, save for later
+
+pf = function(x)
+{
+  paste(wd,x, sep = "/")
+}
+
+```
+
+### Create a file list and an empty data frame for the 9th Bundestag
+
+```{r import, message = FALSE}
+wd <- paste(lwd, "drs09", sep = "/") # Shorten the wd for each voting period
+
+
+drslist09 <- list.files(wd, pattern = ".xml")
+
+df09 <- data.frame(text = as.character(),
+                        date = as.character(),
+                        voting_period = numeric(),
+                        title = as.character(),
+                        type = as.character(),
+                        id = as.character(),
+                        stringsAsFactors = FALSE)
+# 
+```
+
+### Now read the files and put them all into a big dataframe. 
+
+
+```{r message = FALSE}
+ 
+for (i in drslist09){
+  df09[i,1] <- xml_text(xml_find_all(read_xml(pf(i)), "//TEXT"))
+  df09[i,2] <- xml_text(xml_find_all(read_xml(pf(i)), "//DATUM"))
+  df09[i,3] <- xml_text(xml_find_all(read_xml(pf(i)), "//WAHLPERIODE"))
+  df09[i,4] <- xml_text(xml_find_all(read_xml(pf(i)), "//TITEL"))
+  df09[i,5] <- xml_text(xml_find_all(read_xml(pf(i)), "//DOKUMENTART"))
+  df09[i,6] <- xml_text(xml_find_all(read_xml(pf(i)), "//NR"))
+}
+colnames(df09) <- c("text", "date","election period","title","document type","id")
+
+
+
+```
+
+### From here, start working with Quanteda. Our approach: treat titles as texts. Then use a dictionary and an anti-dictionary to identify documents that are relevant to 
+
+```{r quanteda, message = FALSE}
+## Convert to corpus
+
+corpusDrs09 <- quanteda::corpus(df09, text_field = "text", docid_field = "id" )
+
+## Create a title-as-texts corpus
+
+corpusDrs09_title <- corpusDrs09
+texts(corpusDrs09_title) <- docvars(corpusDrs09, "title")
+
+
+
+```
+
+## CREATE DICTIONARY
+
+Search all text within the Drucksachen for any word in the dictionary.
+Removed the word "Arbeit", "Pflege" and 450/500 Euro jobs words.
+Our list of keywords is in the file dict.txt. 
+Our list of stopword is in the file negdict.txt
+
+
+```{r dict, message = FALSE}
+options(encoding = "UTF-8") # Run this to make sure the German language is read properly.
+
+wd <- lwd
+keywords <- readLines(con = pf("dict.txt"), encoding="utf-8") #read from a txt file with all keywords.
+wordlist <- as.list(setNames(keywords,keywords))
+sp_dict <- dictionary(wordlist)
+
+
+# Create a negative dictionary ('stopwords') to skip. Words that have socail policy words in them but do not relate to social policy
+
+keywords1 <- readLines(con = pf("negdict.txt"), encoding="utf-8")
+stopwords <- as.list(setNames(keywords1,keywords1))
+sp_negdict <- dictionary(stopwords)
+
+```
+
+
+## IDENTIFY SOCIAL POLICY WORDS
+
+
+### Apply Dictionary
+
+```{r identify, echo = T, message = F, warning = F}
+# Create a dataframe that indicates word matches in titles
+
+drs09df_title <- dfm(corpusDrs09_title, dictionary = sp_dict, remove = stopwords)
+
+# Top 40 most common terms in titles (with stopwords)
+
+drs09dftop_title <- topfeatures(drs09df_title, n = 40)
+drs09dftopt <- names(drs09dftop_title)
+
+print(drs09dftopt)
+
+```
+
+
+### Now extract relevant documents and convert back to data frame 
+
+```{r }
+## Tokenize 
+dfm_drs09_title <- tokens(corpusDrs09_title) %>%
+  dfm(tolower = TRUE, 
+      stem = FALSE,
+      remove_punct = TRUE) %>% 
+  dfm_select(pattern = sp_dict) %>%
+  dfm_select(pattern = sp_negdict, selection = "remove", valuetype = "fixed") 
+
+
+## Convert to data frame and eliminate rows where all columns have value = 0. 
+
+dfm_drs09_title <- convert(dfm_drs09_title, "data.frame")
+dfm_drs09_title <- dfm_drs09_title[!(rowSums(dfm_drs09_title[,-1]) == 0),]
+
+## Retrieve documents' ids 
+
+newids <- dfm_drs09_title$doc_id
+
+df09_new <- df09[which(df09$id %in% newids),]
+
+## Create new Corpus with only relevant documents
+
+corpDrs09 <- quanteda::corpus(df09_new, text_field = "text", docid_field = "id" )
+
+```
+
+## Testing - Update
+
+Draw a random sample of 200 documents that we did not identify from our dictionary. This sample will be a first test of the accuracy of our dictionary. This was done on the first Bundestag, not the data set used here. However, in the future, we'll be working with data from the 9th Bundestag onwards. We still report our testing results below. 
+
+### 15-Mar-2020
+
+We identified the following in our first test.
+
+25 (12,5%) were falsely identified as not social policy related (24 actually, on a second look)
+11 (5,5%) are worth discussing
+3 (1,5%) documents don't have a meaningful title and can not be identified
+
+In a binomial probability test, the CI of false negatives is between 0.08 and 0.18 (pretty high)
+
+We reworked the dictionary to identify those 25 cases and then re-run the code.
+
+### 1-Apr-2020
+
+NOTE: we kept anything relating to a pay increase; removed policy on supplies of goods (sugar, bread, paper, materials, etc.); we kept anything creating federal councils related to social policy such as a health council (Bundesgesundheitsrat) because they are part of the task of social policy. 
+
+NEEDS FURTHER INVESTIGATION: we removed the creation of courts however as these are part of the justice system (even if they have special functions) (e.g stopword = Sozialgericht...
+
+We had 274 Drucksachen... why not 200?
+
+30 (11%) were still falsely identified
+
+
+NOTE: The dictionary included here is the most recent version. 
