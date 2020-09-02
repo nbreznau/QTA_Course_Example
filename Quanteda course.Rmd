@@ -117,7 +117,7 @@ texts(corpusDrs09_title) <- docvars(corpusDrs09, "title")
 Search all text within the Drucksachen for any word in the dictionary.
 Removed the word "Arbeit", "Pflege" and 450/500 Euro jobs words.
 Our list of keywords is in the file dict.txt. 
-Our list of stopword is in the file negdict.txt
+Our list of stopwords is in the file negdict.txt
 
 
 ```{r dict, message = FALSE}
@@ -187,31 +187,8 @@ corpDrs09 <- quanteda::corpus(df09_new, text_field = "text", docid_field = "id" 
 
 ```
 
-## Testing - Update
+### To Do List
 
-Draw a random sample of 200 documents that we did not identify from our dictionary. This sample will be a first test of the accuracy of our dictionary. This was done on the first Bundestag, not the data set used here. However, in the future, we'll be working with data from the 9th Bundestag onwards. We still report our testing results below. 
-
-### 15-Mar-2020
-
-We identified the following in our first test.
-
-25 (12,5%) were falsely identified as not social policy related (24 actually, on a second look)
-11 (5,5%) are worth discussing
-3 (1,5%) documents don't have a meaningful title and can not be identified
-
-In a binomial probability test, the CI of false negatives is between 0.08 and 0.18 (pretty high)
-
-We reworked the dictionary to identify those 25 cases and then re-run the code.
-
-### 1-Apr-2020
-
-NOTE: we kept anything relating to a pay increase; removed policy on supplies of goods (sugar, bread, paper, materials, etc.); we kept anything creating federal councils related to social policy such as a health council (Bundesgesundheitsrat) because they are part of the task of social policy. 
-
-NEEDS FURTHER INVESTIGATION: we removed the creation of courts however as these are part of the justice system (even if they have special functions) (e.g stopword = Sozialgericht...
-
-We had 274 Drucksachen... why not 200?
-
-30 (11%) were still falsely identified
-
-
-NOTE: The dictionary included here is the most recent version. 
+Improve the dictionary
+Analyze the words in the Title and Drucksachen documents
+Conduct sentiment analysis?

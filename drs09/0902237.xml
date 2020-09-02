@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DOKUMENT SYSTEM "BUNDESTAGSDOKUMENTE.dtd">
+<DOKUMENT>
+  <WAHLPERIODE>9</WAHLPERIODE>
+  <DOKUMENTART>DRUCKSACHE</DOKUMENTART>
+  <DRS_TYP>Unterrichtung</DRS_TYP>
+  <NR>09/2237</NR>
+  <DATUM>07.12.1982</DATUM>
+  <TITEL>Bericht der Bundesregierung an den Deutschen Bundestag über "Umweltradioaktivität und Strahlenbelastung im Jahre 1980"</TITEL>
+  <K_URHEBER>Bundesregierung</K_URHEBER>
+  <TEXT>Deutscher Bundestag 9. Wahlperiode
+Drucksache 9/2237
+07.12.82 Sachgebiet 751
+Unterrichtung
+durch die Bundesregierung
+Bericht der Bundesregierung an den Deutschen Bundestag über „Umweltradioaktivität und Strahlenbelastung im Jahre 1980"
+Inhalt
+Seite
+I. Zusammenfassung	 3
+II. Natürliche Strahlenexposition und zivilisatorisch bedingte Erhöhung der Strahlenexposition aus natürlichen Strahlenquellen 	 4
+III. Zivilisatorische Strahlenexposition 	4
+1. Kerntechnische Anlagen	 4
+1.1 Abgabedaten kerntechnischer Anlagen	 4
+1.2 Berechnete obere Werte der Strahlenexposition von Einzelpersonen
+und Mittelwerte der Strahlenexposition der Bevölkerung 	 5
+1.3 Ergebnis 	5
+2. Anwendung radioaktiver Stoffe und ionisierender Strahlen in der
+Medizin	 6
+2.1 Röntgendiagnostik	 6
+2.2 Strahlentherapie  	6
+2.3 Nuklearmedizin	 6
+2.4 Herzschrittmacher	 7
+3. Anwendung radioaktiver Stoffe und ionisierender Strahlen
+in Forschung, Technik und Haushalt 	 7
+3.1 Industrieerzeugnisse und technische Strahlenquellen  	7
+3.2 Störstrahler 	7
+4. Berufliche Tätigkeit 	7
+5. Radioaktive Abfälle 	8
+6. Strahlenunfälle und besondere Vorkommnisse	 8
+7. Kernwaffenversuche 	 8
+Zugeleitet mit Schreiben des Bundesministers des Innern — RS II 2 — 515 883/12 — vom 3. Dezember 1982 gemäß Beschluß des Deutschen Bundestages vom 14. März 1975 — Drucksache 7/3128.
+
+Seite
+IV. Maßnahmen	 9
+1. Analyse von Strahlenrisiken 	 9
+1.1 Ermittlung von Strahlendosen	 9
+1.2 Dosis-Wirkungs-Beziehungen 	 10
+1.3 Vergleich von Strahlenrisiken mit anderen Risiken	 11
+2. Begrenzung von Strahlenrisiken	 11
+2.1 Rechtfertigung von Tätigkeiten, die mit Strahlenexpositionen verbunden
+sind	 11
+2.2 Optimierung von Schutzmaßnahmen	 11
+3. Notfallschutz 	 12
+Tabellen und Abbildungen	 13 bis 19
+Anhang	 30
+Erläuterung der benutzten Fachausdrücke	 31
+
+I. Zusammenfassung
+Gemäß dem Ersuchen des Deutschen Bundestages vom 14. März 1975 legt die Bundesregierung jährlich einen Bericht über „Umweltradioaktivität und Strahlenbelastung" vor. Dieser Bericht behandelt
+—	die natürliche Strahlenexposition einschließlich der zivilisatorisch bedingten Erhöhung der Strahlenexposition aus natürlichen Strahlenquellen und
+—	die zivilisatorische Strahlenexposition.
+Die natürliche Strahlenexposition setzt sich zusammen aus der Strahlenexposition von außen durch die kosmische und terrestrische Komponente der natürlichen Strahlung und aus der Strahlenexposition von innen durch die Aufnahme natürlich radioaktiver Stoffe in den Körper. Veränderungen der Umwelt des Menschen durch technische Entwicklungen, die eine unbeabsichtigte Anreicherung natürlich radioaktiver Stoffe zur Folge haben, führen zu einer zivilisatorisch bedingten Erhöhung der Strahlenexposition aus natürlichen Strahlenquellen.
+Die Beiträge zur zivilisatorischen Strahlenexposition der Bevölkerung resultieren aus dem Betrieb kerntechnischer Anlagen aus der Anwendung radioaktiver Stoffe und ionisierender Strahlung in Medizin, Forschung, Technik und Haushalt, aus der beruflichen Tätigkeit, aus Strahlenunfällen und besonderen Vorkommnissen sowie aus dem Fall-out von Kernwaffenversuchen.
+Die in den Tabellen dargestellten Werte der Strahlenexposition dienen sowohl der Beurteilung des Strahlenrisikos der betroffenen Personen (somatisches Risiko) als auch des Strahlenrisikos für die Nachkommenschaft (genetisches Risiko). Im ersten Fall wird die Dosis für die exponierten Organe, wie Ganzkörper, Haut, Knochen, Lunge oder Schilddrüse angegeben, im zweiten Fall die genetisch signifikante Dosis.
+Zur Übersicht ist in Tabelle 1 die genetisch signifikante Dosis der Bevölkerung aus den verschiedenen zivilisatorischen Strahlenquellen dargestellt und mit der natürlichen Strahlenexposition verglichen, deren Höhe und Schwankungsbreite als Maßstab für die Wertung jeder zusätzlichen Strahlenexposition verwendet werden kann.
+In der Tabelle 1 sind die Hauptbeiträge zur genetisch signifikanten Dosis der Bevölkerung durch die natürliche Strahlenexposition und die aus der Röntgendiagnostik resultierende Strahlenexposition mit Zahlenwerten angegeben, während für die übrigen Beiträge obere Grenzen genannt werden. Hierzu ist festzustellen, daß die Dosiswerte der Bevölkerung der Bundesrepublik Deutschland aus der natürlichen Strahlenexposition u. a. wegen der geologischen und geographischen Gegebenheiten mit einer mittleren Schwankung von ca. ± 0,3 Millisievert (30 Millirem) um einen Mittelwert von ca. 1,1 Millisievert (110 Millirem) verteilt sind (Drucksache 8/4101). Die durch die Röntgendiagnostik hervorgerufene genetisch signifikante Strahlenexposition ist wegen der Unsicherheiten der Erhebungsdaten mit einem Fehler von ca. 50 Prozent behaftet, auf den in Kapitel III.2.1 näher eingegangen wird. Bei den übrigen Beiträgen zur zivilisatorischen Strahlenexposition liegen die tatsächlichen Werte unter den angegebenen Grenzen.
+Als zusammenfassendes Ergebnis ist folgendes festzustellen:
+—	Eine statistisch signifikante Veränderung der genetisch signifikanten Dosis der Bevölkerung der Bundesrepublik Deutschland gegenüber dem Vorjahr ist bei Berücksichtigung der Ungenauigkeiten, mit denen die Hauptbeiträge zu dieser Dosis noch behaftet sind, nicht ersichtlich. Nähere Erkenntnisse werden von dem mit Unterstützung des Bundesministers des Innern durchgeführten Forschungsvorhaben „Strahlenbelastung der Bevölkerung in der Bundesrepublik Deutschland durch medizinische Maßnahmen, insbesondere in der Röntgendiagnostik" erwartet. Das Forschungsvorhaben wird Ende 1982 abgeschlossen sein.
+—	Der Beitrag der Strahlenexposition durch Kernkraftwerke und sonstige kerntechnische Anlagen zur genetisch signifikanten Dosis der Bevölkerung betrug im Jahr 1980, wie in den Vorjahren, weniger als 1 Prozent des Beitrages der zivilisatorischen Strahlenexposition. Die Abgaben radioaktiver Stoffe blieben bei allen kerntechnischen Anlagen unterhalb, bei den meisten weit unterhalb der genehmigten Werte.
+—	Der größte Beitrag der zivilisatorischen Strahlenexposition zur genetisch signifikanten Dosis wird durch die Anwendung ionisierender Strahlen in der Medizin, vor allem durch die Röntgendiagnostik verursacht.
+—	Obwohl die Anzahl der beruflich strahlenexponierten Personen alljährlich zunimmt, bleibt der Anteil der beruflichen Strahlenexposition am Beitrag der zivilisatorischen Strahlenexposition zur genetisch signifikanten Dosis der Gesamtbevölkerung weit unter einem Prozent.
+—	Der Beitrag der Strahlenexposition durch die Kernwaffenversuche der vergangenen Jahrzehnte zur genetisch signifikanten Dosis ist weiterhin rückläufig. Ein im Jahr 1980 von der Volksrepublik China in der Atmosphäre durchgeführter Kernwaffenversuch verursachte keine meßbare Erhöhung der Zufuhr langlebiger radioaktiver Spaltprodukte über die Nahrung.
+—	Zur Ermittlung der zivilisatorisch bedingten Erhöhung der Strahlenexposition aus natürlichen Quel-
+
+len wurden umfangreiche Untersuchungen über die Radonkonzentration in Wohnungen aufgenommen. Nach Abschluß der Untersuchungen soll eine Bewertung dieses Strahlenrisikos erfolgen.
+II. Natürliche Strahlenexposition und zivilisatorisch bedingte Erhöhung der Strahlenexposition aus natürlichen Strahlenquellen
+Im Berichtszeitraum wurden keine wesentlich neuen Ergebnisse und Erkenntnisse über die natürliche Strahlenexposition bekannt. Es wird daher auf den Bericht für das Jahr 1979 verwiesen (Drucksache 9/644).
+Wie Erhebungsmessungen gezeigt haben, ergeben sich Beiträge zur zivilisatorisch bedingten Erhöhung der Strahlenexposition aus natürlichen Strahlenquellen u. a. durch das Fliegen in großen Höhen, die industrielle und landwirtschaftliche Nutzung von Phosphatprodukten, die Energiegewinnung aus Kohle und den Aufenthalt in Häusern.
+Die Erhöhung der Strahlenexposition von Flugreisenden kann bis zu 5 Mikrosievert (0,5 Millirem) pro Stunde betragen, da die Dosisleistung der kosmischen Strahlung mit der Höhe über dem Erdboden zunimmt und die Flughöhen der Langstreckenflüge bei 10 000 bis 20 000 m liegen. Der Beitrag hieraus zur Strahlenexposition der Gesamtbevölkerung ist jedoch gering, ebenso wie der aus der Nutzung von Phosphatprodukten. Nur eine kleine Gruppe von Personen ist in der Verarbeitung von Rohphosphaten beschäftigt, die je nach Herkunft einen gegenüber der mittleren spezifischen Aktivität der Erdkruste bis auf das Fünfzigfache erhöhten Gehalt an radioaktiven Stoffen besitzen. Die hieraus resultierende zusätzliche Strahlenbelastung dieser Beschäftigten beträgt etwa 0,4 Millisievert (40 Millirem) pro Jahr, die der Verwender von Phosphatdüngern in der Landwirtschaft 'demgegenüber nur 0,004 Millisievert (0,4 Millirem) pro Jahr.
+Bei der Stromerzeugung aus Kohle kommt es zu einer Anreicherung der in der Kohle vorhandenen natürlichen radioaktiven Stoffe in den Verbrennungsrückständen, die als Flugasche teilweise in die Umwelt gelangen und damit zu einer Strahlenexposition führen. Wie die Strahlenschutzkommission beim Bundesminister des Innern in einer Stellungnahme festgestellt hat, liegt die Strahlenexposition durch Steinkohlekraftwerke in derselben Größenordnung wie die aus den radioaktiven Emissionen von Kernkraftwerken gleicher Leistung und ist damit von minimaler Bedeutung (Bundesanzeiger Nr. 150 vom 15. August 1981).
+Die zivilisatorisch bedingte Erhöhung der Strahlenexposition durch den Aufenthalt in Häusern ergibt sich aus Tablelle 1, in der unter 1.2 die genetisch signifikante Jahresdosis im Freien mit 0,43 Millisievert (43 Millirem) und in Häusern mit 0,57 Millisievert (57 Millirem) angegeben ist. Dieser Unterschied wird durch die von außen auf den Körper einwirkende Strahlung der in den Baumaterialien enthaltenen natürlich radioaktiven Stoffe bewirkt. Ein weiterer Beitrag, speziell zur Strahlenbelastung der Lunge, rührt von dem in der Raumluft vorhandenen radioaktiven
+Edelgas Radon und seinen Folgeprodukten her. Die Erhebungsmessungen zur Ermittlung der Höhe und Schwankungsbreite der Radon-Konzentrationen in Wohnräumen sind noch nicht abgeschlossen. Ebenso stehen auch noch die Ergebnisse der Untersuchungen nach den die Radon-Konzentration bestimmenden Faktoren aus. Neben dem Radium- und Thoriumgehalt der Baustoffe spielt auch das Vorhandensein dieser Elemente im Baugrund, Trinkwasser und Erdgas eine Rolle.
+Die bisherigen vorläufigen Ergebnisse, die auch schon im Bericht für das Jahr 1979 genannt worden sind und aufgrund derer die Strahlenschutzkommission eine Stellungnahme zur Radon-Exposition der Bevölkerung abgegeben hat (Bundesanzeiger Nr. 208 vom 6. November 1980), deuten darauf hin, daß Radon in Wohnräumen einen wesentlichen Beitrag zur somatischen Strahlenexposition liefert.
+III. Zivilisatorische Strahlenexposition 1. Kerntechnische Anlagen
+Der Bericht enthält Angaben über die Kernkraftwerke in der Bundesrepublik Deutschland, die Kernforschungszentren Karlsruhe und Jülich sowie die kernbrennstoffverarbeitenden Betriebe in Hanau, Karlstein und Lingen.
+1.1. Abgabedaten kerntechnischer Anlagen
+Die Abgaben radioaktiver Stoffe mit Abluft und Abwasser aus kerntechnischen Einrichtungen sind nach der „Richtlinie zur Emissions- und Immissionsüberwachung kerntechnischer Anlagen" des Bundesministers des Innern von den Betreibern der einzelnen Anlagen zu ermitteln und an die zuständigen Aufsichtsbehörden zu berichten. Einzelheiten über Umfang der Messungen, Meßverfahren, Probenahme, Instrumentierung und Dokumentation der Meßergebnisse sind in Regeln des Kerntechnischen Ausschusses festgelegt. Die von den Betreibern der Anlagen vorzunehmenden Messungen werden durch Kontrollmessungen behördlich beauftragter Sachverständiger entsprechend der Richtlinie des Bundesministers des Innern über die „Kontrolle der Eigenüberwachung radioaktiver Emissionen aus Kernkraftwerken" überprüft.
+Die für 1980 ermittelten Jahresabgaben radioaktiver Stoffe in Abluft und Abwasser von Kernkraftwerken sind in den Tabellen 2 und 3 angegeben. In Tabelle 4 sind die Angaben über die Ableitung radioaktiver Stoffe in Abluft und Abwasser aus den Kernforschungszentren Karlsruhe und Jülich im Jahre 1980 zusammengefaßt; sie sind den Jahresberichten der Strahlenschutzabteilungen dieser Forschungszentren entnommen. Die Ableitungen radioaktiver Stoffe aus den übrigen Forschungsreaktoren in der Bundesrepublik Deutschland betragen im Mittel nur einige Prozent der Ableitungen von Kernkraftwerken.
+Tabelle 5 enthält Angaben über die Ableitung radioaktiver Stoffe in Abluft und Abwasser aus kernbrennstoffverarbeitenden Betrieben. Ergänzende Messungen der
+
+Nuklidzusammensetzung in Abluft und Abwasser hat das Bundesgesundheitsamt durchgeführt.
+1.2 Berechnete obere Werte der Strahlenexposition von Einzelpersonen und Mittelwerte der Strahlenexposition der Bevölkerung
+Die Daten über die Jahresabgaben radioaktiver Stoffe (Tabellen 2 bis 5) dienen als Grundlage für die Berechnung der Strahlenexposition der Menschen in der Umgebung der kerntechnischen Anlagen. Diese Berechnung wurde entsprechend der Richtlinie des Bundesministers des Innern „Allgemeine Berechnungsgrundlage für die Strahlenexposition bei radioaktiven Ableitungen mit der Abluft oder in Oberflächengewässer" durchgeführt (Tabelle 15). Die angegebenen Expositionswerte stellen obere Werte dar, da sie unter der Annahme eines ständigen Aufenthaltes am Ort der größten Strahlenexposition von außen sowie unter den Annahmen berechnet wurden, daß die Gesamtnahrung an der ungünstigsten Einwirkungsstelle erzeugt wird und daß extreme Verzehrsgewohnheiten vorliegen.
+Die Ergebnisse der Berechnung der Strahlenexposition der Bevölkerung im Jahre 1980 in der Umgebung von Kernkraftwerken durch die Abgabe radioaktiver Stoffe mit der Abluft enthält Tabelle 6. Angegeben ist die Strahlenexposition für den Ganzkörper eines Erwachsenen über sämtliche relevanten Expositionspfade: Gammastrahlen aus der Abluftfahne (Gammasubmersion), Gammastrahlung am Boden abgelagerter radioaktiver Stoffe, Inhalation und Ingestion. Dabei wurde die in den Vorjahren emittierte Aktivität der langlebigen radioaktiven Aerosole und ihre Akkumulierung im Boden berücksichtigt. Tabelle 6 zeigt als größten Wert der Ganzkörperdosis für Erwachsene 20 Mikrosievert (2 Millirem) pro Jahr beim Kernkraftwerk Würgassen im Gegensatz zu 9 Mikrosievert (0,9 Millirem) im Jahr 1979. Dieser im Vergleich zu anderen Kernkraftwerken etwas höhere Wert ist auf einen relativ hohen Anteil kurzlebiger Edelgasnuklide in der Kaminabluft des Kernkraftwerkes Würgassen zurückzuführen. Durch eine inzwischen erfolgte Änderung der Abluftführung — die aus der Stopfbuchsabsaugung stammende Aktivität wird jetzt über die Abgasanlage geführt — ist in Zukunft mit geringeren Expositionswerten zu rechnen.
+Bei der Ermittlung der oberen Werte der Strahlenexposition der Schilddrüse eines Kleinkindes über Ernährungsketten wurde ein Milchverzehr von 0,8 Liter pro Tag aus dem Hauptbeaufschlagungsgebiet sowie ein Anteil von 50 v. H. elementarem Jod vorausgesetzt. Einschließlich eines geringen Beitrages über Inhalation ergibt sich beim Kernkraftwerk Würgassen hierfür rechnerisch ein oberer Wert von 300 Mikrosievert (30 Millirem) pro Jahr (Tabelle 6). 1979 waren nur 1,4 v. H. des Jods während der Weidezeit emittiert worden, was zu 7 Mikrosievert (0,7 Millirem) pro Jahr führte. Wieweit der für das Berichtsjahr berechnete obere Wert tatsächlich unterschritten wurde, zeigt ein während der Weidezeit 1980 im Auftrag der Aufsichtsbehörde von mehreren amtlichen Meßstellen unter Federführung des Bundesgesundheitsamtes in der
+Umgebung des Kernkraftwerkes Würgassen durchgeführtes Jodmeßprogramm. Im Rahmen dieses Meßprogramms wurde unter anderem wöchentlich der Gehalt von Jod 131 in Milchproben von sieben landwirtschaftlichen Betrieben in der unmittelbaren Umgebung des Kernkraftwerkes gemessen. Aus diesen gemessenen Jodgehalten der Milch errechnet sich für die Schilddrüsendosis eines Kleinkindes ein Maximalwert von 12 Mikrosievert (1,2 Millirem) im Jahre 1980.
+Weiterhin enthält Tabelle 6 die mittlere Ganzkörperdosis für Erwachsene über sämtliche relevanten Expositionspfade, und zwar im Umkreis von 0 bis 3 km und 0 bis 20 km um die einzelnen Anlagen. Hierbei wurde angenommen, daß die Gesamtnahrung am jeweiligen Wohnort der Bevölkerung erzeugt wird und mittlere Verzehrsgewohnheiten vorliegen.
+In Tabelle 7 sind die aus den Abgaben radioaktiver Stoffe mit Abwasser aus Kernkraftwerken resultierenden oberen Werte der Strahlenexpositionen des Ganzkörpers von Einzelpersonen zusammengestellt; hierbei wurden extreme Verzehrs- und Lebensgewohnheiten angenommen, insbesondere ein hoher Konsum an Flußfisch, der in der Kühlwasserfahne gefangen wird. Der größte Wert beträgt 1 Mikrosievert (0,1 Millirem) bei den Kernkraftwerken Brunsbüttel und Würgassen; im Vorjahr waren es 5 Mikrosievert (0,5 Millirem). Ebenso enthält Tabelle 7 Mittelwerte der Strahlenexposition für Gruppen aus der Bevölkerung, für die eine Nutzung der Vorfluter nicht auszuschließen ist.
+Die in Tabelle 8 angegebenen Werte für die entsprechenden Strahlenexpositionen durch die Abgabe radioaktiver Stoffe mit der Abluft aus Kernforschungszentren stammen aus den Jahresberichten und aus zusätzlichen Angaben der Strahlenschutzabteilungen der Kernforschungszentren Karlsruhe und Jülich. Die Tabelle weist im Falle der äußeren Bestrahlung als größten Wert an der ungünstigsten Einwirkungsstelle beim Kernforschungszentrum Karlsruhe eine Ganzkörperdosis von ca. 120 Mikrosievert (12 Millirem) pro Jahr über sämtliche relevanten Expositionspfade auf (1979: ca. 130 Mikrosievert [13 Millirem]). Für die Strahlenexposition über das Abwasser aus Kernforschungszentren ergibt eine Abschätzung einen oberen Wert von 10 Mikrosievert (1 Millirem) pro Jahr.
+Für die kernbrennstoffverarbeitenden Betriebe in Hanau, Karlstein und Lingen sind in Tabelle 9 die für die ungünstigste Einwirkungsstelle berechneten oberen .Inhalationsdosen für die Lunge eines Kleinkindes durch die Emission von Alphastrahlern in der Abluft angegeben. Der höchste Wert liegt bei 5 Mikrosievert (0,5 Millirem) pro Jahr gegenüber 20 Mikrosievert (2 Millirem) im Jahr 1979. Die durch die Abgaben von Alphastrahlern mit dem Abwasser bedingten Ganzkörperexpositionen Erwachsener sind in Tabelle 10 aufgeführt. Entsprechend den reduzierten Emissionen ist auch der obere Wert der Strahlenexposition von 0,6 Mikrosievert (0,06 Millirem) auf 0,3 Mikrosievert (0,03 Millirem) zurückgegangen.
+1.3 Ergebnis
+Die Jahresabgaben radioaktiver Stoffe in Abluft und
+Abwasser aus kerntechnischen Anlagen zeigen. für
+
+1980 keine wesentlichen Unterschiede im Vergleich zu den Werten der vorhergehenden Jahre. Mit Änderungen in den Einzelwerten, die je nach den betrieblichen Bedingungen erheblich voneinander abweichen können, ergeben sich bei den Kernkraftwerken wie im Vorjahr für die Summe der Jahresabgaben radioaktiver Edelgase ca. 5 • 10 14 Becquerel (ca. 1,4 • 10 4 Curie) und für die Summe der Jod-131-Ableitungen ca. 3.109 Becquerel (ca. Q08 Curie).
+Die aus diesen Abgaben nach der „Allgemeinen Berechnungsgrundlage" ermittelten oberen Werte der Strahlenexposition von Einzelpersonen haben die in der Strahlenschutzverordnung festgelegten Dosisgrenzwerte nicht überschritten; sie sind wesentlich kleiner als die Schwankungen der natürlichen Strahlenexposition in der Bundesrepublik Deutschland. Gegenüber 1979 zeigen die berechneten Werte der Strahlenexposition allgemein keine wesentlichen Unterschiede.
+Die Summierung aller Beiträge von kerntechnischen Anlagen zur Strahlenexposition der Bevölkerung der Bundesrepubilk Deutschland führte auch 1980 zu deutlich weniger als 10 Mikrosievert (1 Millirem) pro Jahr genetisch signifikanter Dosis.
+2. Anwendung radioaktiver Stoffe und ionisierender Strahlen in der Medizin
+2.1 Röntgendiagnostik
+Der größte Anteil an der genetisch signifikanten Dosis der Bevölkerung aus der zivilisatorischen Strahlenexposition ist weiterhin durch die Röntgendiagnostik in der Medizin mit rund der Hälfte des Beitrags aus der natürlichen Strahlenexposition gegeben (Tabelle 1). Die Anteile der Nuklearmedizin und der Strahlentherapie sind dagegen vergleichsweise gering.
+Die Werte stammen aus umfangreichen Erhebungen des Bundesgesundheitsamtes, die im Zusammenhang mit dem Forschungsvorhaben „Strahlenbelastung der Bevölkerung in der Bundesrepublik Deutschland durch medizinische Maßnahmen, insbesondere in der Röntgendiagnostik" erhoben wurden. Eine umfassende Bewertung der Zahlen wird möglich sein, wenn das Forschungsvorhaben Ende 1982 abgeschlossen sein wird. Nach einer ersten Abschätzung des Bundesgesundheitsamtes beträgt der mittlere relative Fehler der genetisch signifikanten Dosis durch die Röntgendiagnostik etwa 50 Prozent. Die Unsicherheit ist dadurch bedingt, daß die Anwendungsfrequenzen regional schwanken, daß durch die Verschiebung des Altersaufbaus der Bevölkerung in Richtung höheres Lebensalter die genetische Bedeutung von Strahlenexpositionen sinkt und daß der in früheren Jahren feststellbare Anstieg der Anwendungsfrequenzen zum Stillstand gekommen ist bzw. sich sogar ein Trend zu geringeren Anwendungsfrequenzen durchzusetzen scheint. Vor allem aber ist die Unsicherheit der Dosisangaben dadurch verursacht, daß die Dosis pro Anwendung — insbesondere die Dosis an den Keimdrüsen — außerordentlich stark nicht nur von der Art der
+Anwendung abhängt, sondern auch von der individuellen Anwendungstechnik des Untersuchers. Es läßt sich deshalb nicht eindeutig feststellen, ob die für die Berechnungen verwendeten Mittelwerte aus verschiedenen Anwendungstechniken tatsächlich repräsentativ für den Durchschnitt der betreffenden Anwendungen in der Bundesrepublik Deutschland sind.
+Bei der Wertung der Strahlenexposition durch die Röntgendiagnostik ist zu beachten, daß im Rahmen der Gesundheitsvorsorge auf Röntgenuntersuchungen nicht verzichtet werden kann und das Strahlenrisiko für den einzelnen Patienten gegenüber dem Nutzen für seine Gesundheit in den Hintergrund tritt.
+Neue Erkenntnisse des Bundesgesundheitsamtes deuten darauf hin, daß auch aufgrund strenger Indikationsstellungen sowie alternativer Untersuchungsmöglichkeiten (u. a. Ultraschall, Endoskopie) die Untersuchungshäufigkeit rückläufig ist. Es kann ferner ein Rückgang der Strahlenexposition durch die generelle Einführung dosissparender Untersuchungstechniken, z. B. durch den Einsatz von Röntgenbildverstärkern für die Durchleuchtung im Bereich des Bauchraumes und des Beckens, angenommen werden. Die Vorschriften der Röntgenverordnung (z. B. Fachkunde, technische Anforderungen) dürften sich hier ausgewirkt haben.
+Erhebliche Bedeutung für die Optimierung medizinischer Strahlenanwendungen bezüglich des Nutzens für die Gesundheitsvorsorge einerseits und des damit verbundenen Strahlenrisikos andererseits kommt den Bemühungen um eine Verbesserung von Wirksamkeit und Wirkungsgrad zu, die auf nationaler wie internationaler Ebene zunehmend gefordert und eingeleitet werden. Sie sollen dem Arzt verbesserte Hinweise für seine Entscheidung zur Indikationsstellung geben und Qualitätskontrollen der von ihm angewandten Technik durch ihn selbst ermöglichen.
+2.2 Strahlentherapie
+Der Beitrag der Strahlentherapie zur genetisch signifikanten Strahlendosis der Bevölkerung beträgt weniger als 1 Prozent, er ist im wesentlichen durch die Strahlenbehandlung gutartiger Erkrankungen bedingt. Die Strahlentherapie bösartiger Tumore erbringt wegen der geringen Kindererwartung dieser Patienten keinen nennenswerten Beitrag zur genetisch signifikanten Strahlendosis.
+2.3 Nuklearmedizin
+Neuere Daten über die Anwendungshäufigkeit nuklearmedizinischer In-vitro-Untersuchungen für das Jahr 1980 liegen nicht vor. Es ist jedoch mit einem weiteren Rückgang der Untersuchungen der Schilddrüse mit Applikation von Jod 131, einer häufigeren Anwendung der kurzlebigen Nuklide Thallium 201 und Technetium 99m insbesondere im Rahmen der Herzdiagnostik und mit einer etwa gleichbleibenden Gesamtzahl der Applikationen zu rechnen. Diese betrug im Jahre 1978 für Berlin (West) und München 34 bzw. 48 pro 1 000 Einwohner. Weit höher liegt die Anzahl medizinischer In-vitro-Untersuchungen mit einem Wert von 740 Untersuchungen pro 1 000 Einwohner (München,
+
+1979), wovon die Hälfte allein im Rahmen der Schilddrüsendiagnostik durchgeführt wurde. Trotz der großen Anzahl nuklearmedizinischer In-vitro-Untersuchungen resultiert hieraus keine nennenswerte Strahlenexposition der Umwelt, da hierbei die Patienten nicht selbst strahlenexponiert werden.
+Die Anwendung radioaktiver Stoffe am Menschen zum Zwecke der medizinischen Forschung einschließlich der klinischen Prüfung von radioaktiven und radioaktiv markierten Arzneimitteln ist nach § 41 der StrlSchV genehmigungspflichtig. In diesem Zusammenhang wurden von den Ländern 1980 insgesamt zwölf Gutachten beim Bundesgesundheitsamt angefordert, von denen elf positiv beschieden wurden und eines 1980 noch nicht abschließend bearbeitet werden konnte.
+2.4 Herzschrittmacher
+Nachdem in den letzten Jahren nichtnukleare Batterien für Herzschrittmacher mit einer Betriebsdauer bis zu zehn Jahren entwickelt wurden, sind seit 1977 keine Herzschrittmacher mit Radionuklidbatterien mehr implantiert worden. Am 31. Dezember 1980 waren von 346 bisher insgesamt implantierten Herzschrittmachern mit Radionuklidbatterie noch 166 implantiert, davon 155 länger als fünf Jahre.
+Trotz der mit dem Tragen eines Radionuklid-Herzschrittmachers verbundenen Strahlenexposition bestehen nach wie vor keine Gründe, die restlichen Herzschrittmacher mit Radionuklidbatterie zu explantieren, da das Risiko des operativen Eingriffes größer ist als das Risiko einer Schädigung durch die Strahlenexposition des betreffenden Herzschrittmacherträgers. Eine Gefährdung der unmittelbaren Umgebung des Patienten durch den Radionuklid-Herzschrittmacher ist nicht gegeben.
+3. Anwendung radioaktiver Stoffe und ionisierender
+Strahlen in Forschung, Technik und Haushalt
+3.1 Industrieerzeugnisse und technische Strahlenquellen
+Zahlreiche Industrieerzeugnisse, wie z. B. wissenschaftliche Instrumente, elektronische Bauteile, Leuchtstoffröhren, Rauch- und Feuermelder, keramische Gegenstände u. a. enthalten radioaktive Stoffe verschiedenster Art und Menge. Tabelle 11 gibt einen Überblick über das Anwendungsgebiet dieser Industrieerzeugnisse und die Art der verwendeten Radionuklide. Der Umgang mit diesen Erzeugnissen wird durch ein differenziertes Anzeige- und Genehmigungssystem geregelt, bei dem auch ein genehmigungsfreier Umgang z. B. durch Bauartzulassung möglich ist. Die Einhaltung der Vorschriften der Strahlenschutzverordnung gewährleistet, daß der Umgang mit diesen radioaktiven Industrieerzeugnissen weniger als 10 Mikrosievert (1 Millirem) pro Jahr zur Strahlenexposition der Bevölkerung beiträgt.
+Bei vielen technischen Prozessen werden radioaktive Stoffe zur Messung und Steuerung (z. B. Füllstand-, Dicke- und Dichtemessung) oder zur Qualitätskontrolle bei der zerstörungsfreien Materialprüfung eingesetzt. Der Umgang mit diesen technischen Strahlenquellen mit meist höheren Aktivitäten unterliegt der Genehmigungspflicht; die damit verbundenen Auflagen garantieren, daß auch der hieraus resultierende Beitrag zur Strahlenexposition der Bevölkerung niedriger als 10 Mikrosievert (1 Millirem) pro Jahr ist.
+3.2 Störstrahler
+Störstrahler sind Anlagen, Geräte und Vorrichtungen, in denen Röntgenstrahlen erzeugt werden, ohne daß sie zu diesem Zweck betrieben werden. Zu den genehmigungspflichtigen Störstrahlern gehören z. B. Elektronenmikroskope, Hochspannungsgleichrichter und spezielle Fernseheinrichtungen. Zur Strahlenexposition der gesamten Bevölkerung tragen solche Störstrahler nicht nennenswert bei.
+Zu den Störstrahlern gehören auch Kathodenstrahlröhren zur Wiedergabe von Bildinhalten, z. B. in Fernseh-
+und Datensichtgeräten. Bei den meisten von der Physikalisch-Technischen Bundesanstalt nach der Röntgenverordnung überprüften Geräten dieser Art wurde die vorgeschriebene, höchstzulässige Ortsdosisleistung von 5 Mikrosievert pro Stunde (0,5 Millirem pro Stunde) in 5 cm Abstand von der Oberfläche beträchtlich unterschritten. Obwohl sich bei Datensichtgeräten die Betrachtungsabstände von ca. 3 m bei Fernsehgeräten auf etwa 0,5 m reduzieren und die zu unterstellende Betrachtungszeit mit acht Stunden im Vergleich zu Fernsehgeräten sehr viel länger ist, hat die Physikalisch-Technische Bundesanstalt festgestellt, daß die genetische Strahlenexposition für die betroffenen Arbeitnehmer sehr gering ist.
+Die Strahlenexposition der Bevölkerung durch Störstrahler wird von Kathodenstrahlröhren in Fernsehgeräten bestimmt. Eine Abschätzung ergibt deutlich weniger als 1 Mikrosievert (0,1 Millirem) pro Jahr.
+4. Berufliche Tätigkeit
+Alle beruflich strahlenexponierten Personen, bei denen die Möglichkeit einer erhöhten Strahlenexposition von außen besteht, werden mit Personendosimetern überwacht, die von den fünf nach Landesrecht zuständigen amtlichen Personendosismeßstellen ausgegeben und ausgewertet werden. Diese amtliche Überwachung fand 1980 in 21 099 (davon 17 941 medizinischen) Betrieben statt. In 17 629 Betrieben wurden Röntgenanlagen oder Störstrahler verwendet. Die Zahl der überwachten Personen betrug im Jahr 1980 174 169 (davon 122 745 im Bereich Medizin) gegenüber 157 984 (davon 110122 im Bereich Medizin) im Jahr 1979.
+Die mittlere Strahlenexposition der überwachten Personen wird aus der Häufigkeitsverteilung der JahresPersonendosen abgeschätzt (siehe Abbildung 1). Sie lag im Jahr 1980 bei ca. 800 Mikrosievert (80 Millirem). Die geringe Änderung gegenüber dem Mittelwert des Vorjahres (840 Mikrosievert = 84 Millirem) liegt innerhalb der Fehlergrenzen dieser Abschätzung. Bei weniger als 60 überwachten Personen überschritt die Personendosis im Jahr 1980 den Dosisgrenzwert von 50 Mil-
+
+lisievert (5 Rem) für beruflich strahlenexponierte Personen.
+Personen, bei denen aufgrund ihres Umgangs mit offenen radioaktiven Stoffen eine Inkorporation nicht ausgeschlossen werden kann, werden durch Messungen im Ganzkörperzähler oder durch Untersuchungen der Ausscheidungen überwacht. Näheres hierzu wird in der „Richtlinie für die physikalische Strahlenschutzkontrolle (§§ 62 und 63 Strahlenschutzverordnung)" geregelt. Die Zahl dieser Personen betrug weniger als
+10 v. H. der mit Personendosimetern überwachten Personen. Der Beitrag von Inkorporationen zur gesamten beruflichen Strahlenexposition war ebenfalls vergleichsweise gering.
+Die genetisch signifikante Strahlenexposition der Gesamtbevölkerung erhöht sich durch die Strahlenbelastung der beruflich strahlenexponierten Personen um weniger als 10 Mikrosievert (1 Millirem) pro Jahr.
+5. Radioaktive Abfälle
+Schwach- und mittelradioaktive Abfälle aus Industrie, Forschung und Medizin werden in den Landessammelstellen und Großforschungszentren, die die Aufgabe von Landessammelstellen wahrnehmen, bis zur Eröffnung eines Endlagers zwischengelagert. Ein großer Teil dieser Abfälle wird unter Zugrundelegung der bisher gültigen Annahmebedingungen des Versuchsendlagers ASSE in eine endlagerfähige Form gebracht.
+Tabelle 12 gibt einen Überblick über den Eingang an schwach- und mittelradioaktiven Rohabfällen in den Landessammelstellen und Großforschungszentren im Jahr 1980. Der Bestand an schwach- und mittelradioaktiven Abfällen in den Zwischenlagern am 31. Dezember 1980, der den bisher gültigen Annahmebedingungen des Vesuchsendlagers ASSE genügen würde, ist in Tabelle 13 aufgeführt. Neben diesen Beständen befinden sich in den Landessammelstellen und Großforschungszentren noch etwa 500 m3 Rohabfälle, die wegen Art und Menge des Nuklidinventars sowie wegen ihrer chemisch-physikalischen Eigenschaften nicht den ASSE-Einlagerungsbedingungen genügen.
+Die Strahlenschutzmaßnahmen im Bereich des Versuchslagers ASSE umfassen die Umgebungsüberwachung sowie die Überwachung der betrieblichen Maßnahmen zum Schutz der Beschäftigten und der Bevölkerung. Sie wurden auch im Jahre 1980 im bisherigen Umfang fortgeführt. Wesentliche Änderungen gegenüber den Daten des Berichts für 1979 (Drucksache 9/ 644) haben sich nicht ergeben.
+Die oberirdische Zwischenlagerung radioaktiver Abfälle bei Landessammelstellen und Großforschungszentren bis zur Eröffnung eines Endlagers unterliegt den Schutzvorschriften der Strahlenschutzverordnung, wodurch der Schutz der Bevölkerung nach Maßgabe des Standes von Wissenschaft und Technik sichergestellt ist. Die Lagerung erfolgt in geschlossenen, überwachten Hallen, so daß die Behälter vor Witterungseinflüssen und vor Zugriffen durch Unbefugte geschützt sind. Ein nennenswerter Beitrag zur genetisch signifikanten Dosis der Bevölkerung entsteht durch die Lagerung radioaktiver Abfälle nicht.
+6. Strahlenunfälle und besondere Vorkommnisse
+Eine Übersicht über besondere Vorkommnisse beim Umgang mit radioaktiven Stoffen im Jahr 1980, die nach der Strahlenschutzverordnung anzeigepflichtig sind, enthält Tabelle 14. Für den Geltungsbereich der Röntgenverordnung liegen entsprechende Berichte nicht vor.
+Diese jährliche Zusammenstellung soll dazu dienen, mögliche Fehlerquellen beim Umgang mit radioaktiven Stoffen oder ionisierender Strahlung allgemein bekanntzumachen und dadurch die Öffentlichkeit, die Strahlenschutzverantwortlichen und die vor Ort tätigen Aufsichtsbehörden für ihren Bereich in die Lage zu versetzen, vergleichbare Vorkommnisse zu vermeiden und somit auch für die Zukunft zu gewährleisten, daß das Strahlenrisiko für die Bevölkerung so gering wie möglich gehalten wird.
+Eine Zuordnung nach den Ursachen der insgesamt 46 Vorkommnisse ergibt, daß
+—	29 Vorkommnisse auf menschlichem Versagen oder vorsätzlicher Störung,
+—	11 Vorkommnisse auf apparativen Mängeln (einschließlich konstruktionsbedingter Fehler) und
+—	5 Vorkommnisse auf einem Unfallereignis
+beruhen. In einem Fall konnte die Ursache für einen erhöhten Dosiswert (25 Rem) nicht ermittelt werden, zumal die gleichzeitig getragenen anderen Dosimeter keinen vergleichbaren Wert aufwiesen.
+Die Beurteilung der radiologischen Folgen (Spalte 5 der Übersicht) zeigt aber, daß – nicht zuletzt aufgrund umgehender und sachgerecht eingeleiteter Maßnahmen – in keinem Fall schwerwiegende gesundheitliche Schäden feststellbar waren. Bei vielen der aufgelisteten Vorkommnisse hat überhaupt keine Strahlenexposition von Personen stattgefunden; sie wurden lediglich wegen der von der Norm abweichenden Umstände oder wegen einer besonderen Resonanz in der Öffentlichkeit in diese Übersicht aufgenommen.
+Wegen besonderer Vorkommnisse in Kernkraftwerken wird auf die Berichte der Gesellschaft für Reaktorsicherheit (GRS) mbH verwiesen. Die wenigen Fälle, in denen es dabei zu Aktivitätsfreisetzungen über den Normalwerten gekommen ist, sind in den Abgabedaten der Tabellen 2 bis 5 und damit auch bei der Bestimmung der Strahlenexposition der Tabellen 6 bis 10 berücksichtigt.
+7. Kernwaffenversuche
+Nach den vorliegenden Meldungen wurden 1980 insgesamt 51 unterirdische Kernwaffenversuche durchgeführt, ein Versuch in der Atmosphäre durch die Volksrepublik China am 16. Oktober 1980.
+Der allgemeine Pegel der Umweltradioaktivität durch
+Kernwaffenversuche ist seit Inkrafttreten des interna-
+
+tionalen „Vertrages über das Verbot von Kernwaffenversuchen in der Atmosphäre, im Weltraum und unter Wasser" im Jahre 1963 ständig zurückgegangen. Auch der im Berichtsjahr erfolgte Kernwaffenversuch in der Atmosphäre hat diese Tendenz nicht beeinflußt.
+Die durchschnittliche Zufuhr über die Nahrung an Strontium 90 für die Bevölkerung aus den Kernwaffenversuchen wird aufgrund der Meßergebnisse der Umweltradioaktivitätsüberwachung für 1980 auf etwa 340 Millibecquerel (9 Pikocurie) pro Tag und Person geschätzt. Für Cäsium 137 ist dieser Wert auf etwa 310 Millibecquerel (8 Pikocurie) pro Tag und Person zurückgegangen. Diese langlebigen Fall-out-Radionuklide sind auch im menschlichen Körper noch immer nachweisbar.
+Der Strontium-90-Gehalt betrug 1980 für die untersuchten Knochenproben je nach Alter 0,004 Becquerel (0,1 Pikocurie) bis 0,07 Becquerel (2 Pikocurie) pro Gramm Calcium. Das Maximum liegt nach wie vor bei den jetzt 20- bis 26jährigen, deren Knochenaufbau-phase mit dem Maximum des Fall-out zu Beginn der sechziger Jahre zusammenfiel. Die Strahlenexposition der Knochen beträgt für diese Personengruppe rd. 40 Mikrosievert (4 Millirem) pro Jahr.
+Iv. Maßnahmen
+1. Analyse von Strahlenrisiken 1.1 Ermittlung von Strahlendosen
+Die Ermittlung von Strahlendosen vollzieht sich über verschiedene Stufen, zu denen jeweils spezifische Maßnahmen ergriffen wurden:
+— Meßgrößen und Einheiten
+Die im Strahlenschutz anzuwendenden Einheiten entsprechen der Richtlinie des Rates der Europäischen Gemeinschaften vom 20. Dezember 1979 zur Angleichung der Rechtsvorschriften über die Einheiten im Meßwesen (ABI. Nr. L 39 vom 15. Februar 1980), nachdem abschließend mit der Dritten Verordnung zur Änderung der Ausführungsverordnung zum Gesetz über Einheiten im Meßwesen vom 8. Mai 1981 (BGBl. I S. 422) das System der SIEinheiten in das deutsche Strahlenschutzrecht eingeführt worden ist.
+Von besonderer Bedeutung ist die Übernahme der von der Internationalen Strahlenschutzkommission eingeführten „Effektiven Dosis" in die Neufassung der Strahlenschutz-Grundnormen der Europäischen Gemeinschaften (ABI. Nr. L 246 vom 17. September 1980).
+Durch diese Größe wird das Individualrisiko einer Strahlenexposition für stochastische Wirkungen nicht allein auf das höchstexponierte Organ oder Gewebe (kritisches Organ), sondern auf alle relevanten Organe und Gewebe des gesamten Körpers bezogen. Für einen Teil der Erhebungen, insbesondere bei den vergleichenden Analysen über die
+Strahlenexposition durch Kohle- und Kernkraftwerke, wurde bereits die effektive Dosis ermittelt.
+Da bei Inspektions-, Reparatur- und Wartungsarbeiten in Kernkraftwerken neben dem Eigenpersonal in zunehmendem Maße Fremdpersonal eingesetzt wird, erschien es sinnvoll, für die Überwachung der Strahlenexposition des Personals einer Anlage nicht allein die Jahres-Individualdosen, sondern auch die Jahres-Kollektivdosen, d. h. die Summe der JahresIndividualdosen des in der Anlage tätigen Personals zu überwachen. Entsprechende Regelungen wurden in die Richtlinien des Bundesministers des Innern für den Strahlenschutz des Personals bei der Durchführung von Instandhaltungsarbeiten in Kernkraftwerken mit Leichtwasserreaktoren (GMBl. 1978 S. 418; 1981 S. 363) aufgenommen.
+Meßgeräte und Meßsysteme
+Durch die Verordnung zur Änderung der Zweiten und Dritten Verordnung über die Eichpflicht von Meßgeräten vom 21. Dezember 1979 (BGBl. I S. 2347) wurde die Eichpflicht für StrahlenschutzMeßsysteme, die aufgrund gesetzlicher Vorschriften verwendet werden, präzisiert und erweitert.
+Im Rahmen der vom Bundesminister des Innern geförderten Forschungs- und Entwicklungsvorhaben wurden neue Meßgeräte für Kurzzeit- und Langzeitmessungen von Radonkonzentrationen in Luft, für Abluftemissionen von Alphastrahlern, für gasförmige und aerosolgebundene Aktivitäten in der Atmosphäre und für Neutronendosen entwikkelt, die detailliertere und präzisere Dosisangaben bzw. Dosisabschätzungen zulassen.
+Die Entwicklung und Einführung eines automatischen, integrierten Fernüberwachungssystems für kerntechnische Anlagen wurde 1980 eingeleitet und durch die Erstellung einer „Rahmenempfehlung für die Fernüberwachung von Kernkraftwerken" begleitet (GMBl. 1980 5. 577). Den Stand der Entwicklung hat der Bundesminister des Innern in einem mit Schreiben vom 23. Februar 1982 dem Innenausschuß des Deutschen Bundestages übersandten Bericht ausführlich beschrieben.
+— Modelle und Datensätze
+Im Rahmen der vom Bundesminister des Innern geförderten Forschungs- und Entwicklungsvorhaben wurden die Modelle und Datensätze ergänzt und präzisiert, die in den Fällen benötigt werden, in denen Strahlendosen nicht unmittelbar gemessen, sondern aus Emissionsquellstärken, Aktivitätsverteilungen in der Umwelt oder aus vom Körper aufgenommenen Aktivitäten nur rechnerisch abgeschätzt werden können. Besonders hervorzuheben sind die Arbeiten zur Weiterentwicklung der Ausbreitungsmodelle radioaktiver Stoffe in Luft und Wasser bei Normalbetrieb und in Störfällen, die Untersuchungen über den Transfer von Radionukliden vom Boden in den Bewuchs und in die Nahrungsketten sowie die Untersuchungen über die Aufnahme radioaktiver Stoffe durch den Menschen (insbesondere auch Foetus und Embryo) und die
+
+Verteilung dieser Stoffe im Menschen durch Ermittlung biokinetischer Daten bei der Anwendung von Radiopharmaka. Ergebnisse wurden u. a. auf dem Radioökologie-Symposium, Stuttgart, (15./16. Oktober 1981) vorgestellt.
+Neben den in diesem Bericht beschriebenen im Rahmen der staatlichen Aufsicht und der Bundesaufsicht durchgeführten Erhebungen wurden durch vom Bundesminister des Innern geförderte Forschungs- und Entwicklungsarbeiten Analysen über die Freisetzung spezieller langlebiger Radionuklide aus kerntechnischen Anlagen intensiviert.
+Pilotstudien in Berlin und im Nahegebiet haben zwar die Brauchbarkeit von Emissionskatastern als Mittel der Aufsicht für die Feststellung von Abgaben radioaktiver Stoffe und der radiologischen Vorbelastungen an bestimmten Standorten bestätigt, aber auch den hohen Arbeitsaufwand erkennen lassen, der mit der Erstellung und Aktualisierung eines bundesweiten Emissionskatasters verbunden ist.
+Darüber hinaus wurden im Jahre 1980 die vom Bundesminister des Innern veranlaßten Untersuchungen über die zivilisatorisch bedingte Strahlenbelastung durch Emissionen natürlich radioaktiver Stoffe aus Kohlekraftwerken abgeschlossen; sie bildeten die Grundlage für die Stellungnahme der Strahlenschutzkommission zum Vergleich der Strahlenexposition der Bevölkerung in der Umgebung von Kohlekraftwerken und Kernkraftwerken (Bundesanzeiger vom 15. Juli 1981) sowie für zwei Berichte, die dem Innenausschuß des Deutschen
+Bundestages mit Schreiben vom 22. Dezember 1981 und 24. Juni 1982 zugeleitet wurden.
+Ebenso haben die vorliegenden Zwischenergebnisse der Erhebungen über Radonexpositionen in Wohnräumen die Strahlenschutzkommission veranlaßt, hierzu eine Stellungnahme abzugeben (Bundesanzeiger vom 6. November 1980) und auf die Abhängigkeit der Expositionsverhältnisse von der Luftwechselrate in den Räumen hinzuweisen.
+Die Strahlenexposition der Bevölkerung durch Emissionen natürlich radioaktiver Stoffe im Zusammenhang mit früheren (alte Halden im Schwarzwald) und jüngeren (Uranprospektionsgebiete) Bergbauaktivitäten ist Gegenstand von Forschungs- und Entwicklungsvorhaben, die vom Bundesminister des Innern im Jahre 1980 eingeleitet wurden und Basismaterial für die Überprüfung der derzeit geltenden Schutzvorschriften liefern sollen. Zur Analyse der mit radioaktiven Mineralien im Zusammenhang stehenden Strahlenschutzprobleme wurde im Januar 1980 bei der Strahlenschutzkommission eine besondere Arbeitsgruppe eingerichtet.
+Im Bereich der zivilisatorischen Strahlenbelastung wurde ergänzend zu der Routineüberwachung der Personendosen beruflich strahlenexponierter Personen in den Jahren 1980/81 die Strahlenexposition des Personals in den verschiedenen medizinischen Anwendungsbereichen radioaktiver Stoffe unter besonderer Berücksichtigung von Inkorporationen untersucht.
+Umfassende Erhebungen zur medizinischen Strahlenexposition der Bevölkerung, insbesondere in der Röntgendiagnostik, die das Bundesgesundheitsamt im Auftrag des Bundesministers des Innern durchführte, wurden 1980 abgeschlossen. Das umfangreiche Erhebungsmaterial wird derzeit noch ausgewertet.
+1.2 Dosis-Wirkungs-Beziehungen
+Zur Analyse der Dosis-Wirkungs-Beziehung im Bereich der Dosishöhe, wie sie durch die natürliche und zivilisatorische Strahlenexposition gegeben ist, sind umfangreiche epidemologische Untersuchungen erforderlich. Mit ihnen soll geklärt werden, ob zeitlich und regional auftretende Unterschiede in der Krebshäufigkeit mit der natürlichen und zivilisatorischen Strahlenexposition in ursächlichen Zusammenhang gebracht werden können. Entsprechende Untersuchungen sind allerdings im vollen Umfang erst möglich, wenn flächendeckende Krebsregister für die Bundesrepublik Deutschland bestehen. Bis dahin wird im Rahmen des vom Bundesminister des Innern geförderten Forschungs- und Entwicklungsprogramms eine kreisbezogene Krebssterblichkeitsstatistik geführt und zweckentsprechend ausgewertet.
+Vorläufige Ergebnisse haben bisher keine Zunahme von Krebserkrankungen, weder durch die unterschiedliche natürliche Strahlenexposition noch durch die Anwendung ionisierender Strahlen und radioaktiver Stoffe, in der Bundesrepublik Deutschland erkennen lassen.
+— Abgabe radioaktiver Stoffe an die Umwelt und
+Aktivitätsverteilungen in Luft, Wasser und Boden
+In die Erhebungen über die Abgabe radioaktiver Stoffe an die Umwelt wurden frühere (alte Halden im Schwarzwald) und jüngere Bergbauaktivitäten (Uranprospektionsgebiete) sowie Kohlekraftwerke eingeschlossen.
+Nach Abschluß der Entwicklung geeigneter Meßgeräte wurden die Messungen zur Erfassung der Radonkonzentrationen in der Luft von Wohn- und Aufenthaltsräumen sowie im Freien erheblich ausgedehnt. Ebenso wurde in die Untersuchungen über radioaktive Stoffe im Trinkwasser auch dessen Radongehalt eingeschlossen.
+Mit den Forschungsschiffen „Anton Dohrn" und „Walter Herwig" werden seit 1979 Untersuchungen über etwaige Freisetzungen radioaktiver Stoffe in den Gebieten des Atlantiks durchgeführt, in denen im Rahmen des von der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) zugelassenen und überwachten Verfahrens schwachaktive Abfälle aus einigen Staaten versenkt worden sind.
+— Dosisabschätzungen
+Die Ergebnisse der bisherigen Ermittlungen der Strahlendosen durch direkte Messungen oder Berechnungen über Modelle wurden in diesem Bericht für die verschiedenen Bereiche angegeben.
+
+In das Forschungs- und Entwicklungsprogramm wurden 1980 auch weitere Untersuchungen über Synergismen (sich verstärkende Wirkung zweier Schadstoffe) sowie teratogene Strahlenwirkungen (Schädigungen bei der Embryonalentwicklung) einbezogen. Ein vom Bundesminister des Innern gefördertes internationales Symposium (26. bis 28. November 1980, Neuherberg) war den Entwicklungstörungen nach pränataler Bestrahlung gewidmet.
+1.3 Vergleich von Strahlenrisiken mit anderen Risiken
+Die Beurteilung des Risikos von Tätigkeiten, die mit Strahlenexpositionen verbunden sind, kann nicht auf Analysen des Gesamtrisikos dieser Tätigkeiten und auf Vergleiche mit Risiken anderer bzw. alternativer Tätigkeiten verzichten. Deshalb sind in das vom Bundesminister des Innern geförderte Forschungs- und Entwicklungsprogramm zunehmend vergleichende Risikoanalysen aufgenommen worden. Ergebnisse wurden u. a. in einem vom Bundesminister des Innern geförderten Symposium (Umweltrisiko 80, 8. bis 10. Mai 1980, Homburg/Saar) zusammengestellt.
+2. Begrenzung von Strahlenrisiken
+2.1 Rechtfertigung von Tätigkeiten, die mit Strahlenexpositionen verbunden sind
+Neben den Risikovergleichen dienen insbesondere Qualitätsanalysen der Verfahren, die mit Strahlenexpositionen verbunden sind, als Grundlage für Prüfungen, ob die Anwendung der Verfahren zu rechtfertigen ist. Entsprechende Studien wurden auf jene Tätigkeiten bzw. Verfahren konzentriert, die die Hauptbeträge zur Strahlenexposition der Bevölkerung liefern, das sind insbesondere die radiologischen Verfahren der medizinischen Diagnostik.
+2.2 Optimierung von Schutzmaßnahmen
+Nach Bekanntgabe der Neufassung der Strahlenschutz-Grundnormen der Europäischen Gemeinschaften (ABl. Nr. L 246 vom 17. September 1980) wurde mit den Vorarbeiten zur Novellierung des Strahlenschutzrechtes begonnen. Im Jahre 1980 wurden drei weitere Durchführungsrichtlinien zur Strahlenschutzverordnung (vgl. Tabelle 15) veröffentlicht.
+Die Gesamtproblematik der Begrenzung zivilisatorisch erhöhter Strahlenexpositionen durch natürliche Strahlenquellen in Räumen wurde auf Wunsch des Vertreters der Bundesrepublik Deutschland im November 1980 im Grundnormenausschuß der Kommission der Europäischen Gemeinschaft behandelt; die Detailberatung in diesem Gremium wurde jedoch zurückgestellt, bis hierzu die derzeit noch in der Erstellungsphase befindlichen Empfehlungen der Internationalen Strahlenschutzkommission (ICRP) vorliegen. Die in der Bundesrepublik Deutschland bisher zur Begrenzung dieser Strahlenexposition getroffenen Maßnahmen wurden in einem besonderen Bericht zusammengestellt und dem Innenausschuß des Deutschen Bundestages mit Schreiben vom 30. Dezember 1981 zugeleitet.
+Nachdem in Vorstudien des Bundesgesundheitsamtes die administrativen und technischen Voraussetzungen für die Einrichtung eines zentralen Dosisregisters für berufliche Strahlenexpositionen analysiert worden sind, werden im Rahmen der Vorarbeiten zur Novellierung des Strahlenschutzrechtes die Rechtsgrundlagen für eine zentrale Zusammenführung der von beruflich strahlenexponierten Personen durch externe und interne Strahlenexpositionen empfangenen Dosen erstellt.
+Seit Inbetriebnahme des Versuchsatomkraftwerkes Kahl im Jahre 1961 werden nicht nur die Individualdosen, sondern auch die Kollektivdosen des Eigen- und Fremdpersonals kerntechnischer Anlagen besonders erfaßt und analysiert. Ergebnisse dieser Analysen führten bereits 1978 zur Verabschiedung des ersten Teils der „Richtlinie für den Strahlenschutz des Personals bei der Durchführung von Instandhaltungsarbeiten in Kernkraftwerken mit Leichtwasserreaktor: Die während der Planung zu treffende Vorsorge" (GMBl. 1978 S. 418). Diese Richtlinie wurde durch den zweiten Teil: „Die Strahlenschutzmaßnahmen während der Inbetriebsetzung und des Betriebes der Anlage" (GMBl. 1981 S. 363) erweitert.
+Unter Beteiligung von Vertretern der Bundesrepublik Deutschland wurde 1980 bei der Kommission der Europäischen Gemeinschaften der Entwurf einer Richtlinie des Rates zur Festlegung der grundlegenden Maßnahmen für den Strahlenschutz bei ärztlichen Untersuchungen und ärztlichen Behandlungen erstellt, der derzeit abschließend beim Rat der Kommission beraten wird.
+Der Schwerpunkt bei der Optimierung technischer Schutzmaßnahmen richtet sich auf jene Tätigkeiten und Verfahren in der medizinischen Diagnostik, die den Hauptbeitrag zur Strahlenexposition der Bevölkerung liefern. Die Ergebnisse von Analysen über die Qualitätssicherung medizinisch diagnostischer Verfahren, bei denen ionisierende Strahlen bzw. radioaktive Stoffe eingesetzt werden, wurden in zwei vom Bundesgesundheitsamt durchgeführten und vom Bundesminister des Innern geförderten Symposien (20. bis 24. Oktober 1980, Neuherberg, und 17. bis 21. November 1980, Heidelberg) mit dem Ziel zur Diskussion gestellt, die medizinische Strahlenexposition der Bevölkerung, soweit dies ohne wesentlichen Informationsverlust für den Arzt möglich ist, zu reduzieren. Dem gleichen Ziel dienten vom Bundesminister des Innern geförderte Vorhaben über den Vergleich bildgebender Verfahren in der Schilddrüsendiagnostik und die Entwicklung einer strahlensparenden Methode zur Darstellung und Analyse der Herzhöhlen und -wände und zur Untersuchung ihrer Funktionen.
+Daneben wurden unter Mitarbeit bzw. durch die Förderung des Bundesministers des Innern in technischen Regeln des Kerntechnischen Ausschusses (KTA) und des Deutschen Instituts für Normung (DIN) der Stand von Wissenschaft und Technik zum Schutz der Beschäftigten und der Bevölkerung in verschiedenen Bereichen des Umgangs mit ionisierenden Strahlen und radioaktiven Stoffen festgelegt.
+
+3. Notfallschutz
+Während es das Ziel der Sicherheitsnormen ist, durch restriktive Anforderungen die Zuverlässigkeit der Anlagen zu erhöhen und damit das Restrisiko zu minimieren, besteht die Aufgabe des Notfallschutzes darin, das Ausmaß eines möglichen Schadens zu begrenzen. Da der Katastrophenschutz in die alleinige Zuständigkeit der Bundesländer fällt, unterstützt der Bundesminister des Innern die Länderbehörden durch wissenschaftlich-technische Beratungen und trägt die Verantwortung für die Koordination bei nationale Grenzen überschreitenden Ereignissen.
+— Notfallschutzvorsorge bei grenzüberschreitenden Ereignissen
+Die Notfallschutzvorsorge schließt auch Gebiete ein, die sich im Bereich denkbarer Auswirkungen von grenznahen ausländischen Anlagen befinden. Durch Abkommen mit einer Reihe von Nachbarstaaten wurde sichergestellt, daß deutsche Behörden unverzüglich über kerntechnische Störfälle und Unfälle informiert werden. Über die vertraglichen Verpflichtungen hinaus sind mit dem Königreich der Niederlande, der Französischen Republik und der Schweizerischen Eidgenossenschaft Kommissionen gegründet worden, die den fortwährenden fachlichen Gedankenaustausch sicherstellen.
+— Festlegung von Notfallschutznormen
+Grundlage für die Störfallvorsorge sind die „Empfehlungen zur Planung von Notfallschutzmaßnahmen durch die Betreiber von Kernkraftwerken", wie sie vom Länderausschuß für Atomkernenergie am 15./16. Juni 1976 verabschiedet wurden (GMBl. 1977 S. 48). Diese Empfehlungen werden derzeit im Hinblick auf die Erstellung einer Richtlinie zur Störfallvorsorge (§§ 36 bis 38 StrlSchV) überarbeitet.
+— Unterstüzung der für den Katastrophenschutz zuständigen Länderbehörden
+Im Auftrag des Bundesministers des Innern werden in Forschungs- und Entwicklungsvorhaben und Pilotstudien wissenschaftliche Erkenntnisse und Konzepte des Notfallschutzes erarbeitet und weiterentwickelt. Diese Fortentwicklung wird auf der Ebene der Europäischen Gemeinschaft und bei der Internationalen Atomenergie-Behörde abgestimmt. Die gewonnenen Erkenntnisse werden den Länderbehörden weitervermittelt.
+Der Länderausschuß hat gemeinsam mit den Innenministern der Länder „Rahmenempfehlungen für den Katastrophenschutz in der Umgebung kerntechnischer Anlagen" verabschiedet (GMBl. 1977 S. 683). Entsprechend diesen Empfehlungen sind an allen Kernkraftwerken für einen Umkreis von 25 km Katastrophenabwehrpläne erstellt worden.
+Die Katastrophenabwehrpläne werden nach einem Beschluß der Ständigen Innenministerkonferenz vom 27. Juni 1980 offengelegt, davon sind sicherheitsempfindliche und personenbezogene Angaben ausgenommen. An alle Haushalte im Umkreis von 10 km eines Kernkraftwerkes ist eine Broschüre verteilt worden, die der Bevölkerung die geplanten Maßnahmen der Behörden ebenso wie geeignetes Verhalten zum Selbstschutz erläutern.
+Der Fortbildung der Ärzte gilt auf Anregung des Bundesministers des Innern das Augenmerk der Ärztekammern, die in Fortbildungsveranstaltungen und Berichten über die Durchführung der medizinischen Versorgung von Strahlenunfallpatienten in Notfallsituationen unterrichten. Eine derartige Fortbildungsveranstaltung fand am 28./29. November 1980 in Neuherberg unter finanzieller Förderung durch den Bundesminister des Innern statt.
+
+Tabelle 1
+Genetisch signifikante Strahlenexposition der Bevölkerung der Bundesrepublik Deutschland im Jahre 1980
+in Millisievert * ) (Millirem)
+1. 	Natürliche Strahlenexposition	
+1.1	durch kosmische Strahlung 		ca. 0,3 ( 30)
+1.2	durch terrestrische Strahlung von außen im Mittel 		ca. 0,5 ( 50)
+	bei Aufenthalt im Freien 		ca. 0,43 (43)
+	bei Aufenthalt in Häusern 		ca. 0,57 (57)
+1.3	durch inkorporierte natürlich radioaktive Stoffe 		ca. 0,3 ( 30)
+	Summe der natürlichen Strahlenexposition 		ca. 1,1 (110) 
+2. 	Zivilisatorische Strahlenexposition	
+2.1	durch kerntechnische Anlagen 		&lt;0,01* *) (1)
+2.2	durch Anwendung radioaktiver Stoffe und ionisierender	
+	Strahlen in der Medizin 		ca. 0,5 (50)
+2.2.1	Röntgendiagnostik 		ca. 0,5	(50)***)
+2.2.2	Strahlentherapie 		&lt;0,01 ( 1)
+2.2.3	Nuklearmedizin 		&lt;0,01 ( 1)
+2.3	durch Anwendung radioaktiver Stoffe und ionisierender Strahlen	
+	in Forschung, Technik und Haushalt (ohne 2.4) 		&lt;0,02 ( 2)
+2.3.1	Industrieerzeugnisse 		&lt;0,01 (	1)
+2.3.2	technische Strahlenquellen 		&lt;0,01 ( 1)
+2.3.3	Störstrahler 		&lt;0,01 (	1)
+2.4	durch berufliche Strahlenexposition (Beitrag zur mittleren	
+	Strahlenexposition der Bevölkerung) 		&lt;0,01 (	1)
+2.5	durch Strahlenunfälle und besondere Vorkommnisse 		0 ( 0)
+2.6	durch Fall-out von Kernwaffenversuchen 		&lt;0,01 (	1)
+2.6.1	von außen im Freien 		&lt;0,01 ( 1)
+2.6.2	durch inkorporierte radioaktive Stoffe 		&lt;0,01 ( 1)
+	Summe der zivilisatorischen Strahlenexposition 		ca. 0,6 (60) 
+*) SI-Einheit, s. Anhang
+* *) Das Zeichen &lt; bedeutet „kleiner als"
+* * *) Nach einer ersten Abschätzung beträgt der mittlere relative Fehler dieses Wertes etwa 50 v.H.
+
+Tabelle 2
+Jahresabgabe radioaktiver Stoffe mit der Abluft aus Kernkraftwerken) im Jahre 1980 in Becquerel
+(Jahresabgaben 1979 in Klammern)
+Kernkraftwerk	Edelgase	Aerosolen)	Jod 131	14CO2	Tritium
+Kahl 		6,2E+12 *	4,8E+05	1,7E+06	n.b.	n.b.
+	(2,1E+13)	(2,9E+06)	(5,3E+06)	(n.b.)	(n.b.)
+Gundremmingen	.	-	7,9E+05	-	&lt;7,4E+08	&lt;2,2E+10
+	(-)	(5,1E+06)	(-)	(3,7E+09)	(-)
+Lingen 		-	7,5E+04	-	n.b.	5,5E+10
+	(1,5E+11)	(1,3E+06)	(-)	(n.b.)	(5,2E+10)
+Obrigheim 		3,8E+12	7,2E+07	2,3E+06	2,2E+10	3,4E+11
+	(3,8E+12)	(7,5E+07)	(3,0E+06)	(7,4E+09)	(6,3E+11)
+Stade 		1,1E+13	2,2E+07	4,2E+06	1,2E+11	1,6E+12
+	(8,6E+12)	(2,6E+07)	(8,6E+07)	(5,6E+10)	(1,2E+12)
+Würgassen 		2,9E+14	1,6E+09	2,2E+09	2,7E+11	6,4E+11
+	(1,6E+14)	(1,4E+09)	(2,5E+09)	(6,3E+10)	(3,3E+11)
+BiblisA 		1,9E+13	6,6E+07	2,6E+08	n.b.	3,4E+12
+	(1,1E+13)	(1,0E+03)	(2,4E+08)	(n.b.)	(1,7E+12)
+Biblis B 		3,1E+13	1,4E+07	1,9E+08	n.b.	1,2E+12
+	(3,3E+13)	(5,5E+06)	(4,4E+08)	(n.b.)	(6,7E+11)
+Neckarwestheim . 		4,9E+13	2,4E+07	2,3E+08	1,1E+11	1,9E+12
+	(1,2E+13)	(2,5E+07)	(3,2E+07)	(2,2E+10)	(1,1E+12)
+Brunsbüttel 		6,1E+12	4,7E+08	4,1E+07	3,0E+10	1,1E+10
+	(&lt;4,6E+13)	(8,0E+09)	(&lt;9,1E+06)	(8,5E+09)	(3,4E+11)
+Isar 		2,8E+13	6,4E+08	7,8E+07	n.b.	3,1E+11
+	(8,5E+13)	(7,8E+08)	(2,8E+06)	(n.b.)	(2,5E+11)
+Unterweser3). .	.	2,1E+13	&lt;8,0E+03	8,3E+07	2,6E+10	2,8E+11
+	(3,9E+13)	(&lt;1,0E+08)	(4,6E+07)	(1,9E+10)	(2,1E+11)
+Phillipsburg	..	.	2,1E+13	1,4E+08	-	n.b.	2,1E+10
+	(2,1E+13)	(1,3E+08)	(2,6E+05)	(n.b.)	(1,6E+10)
+1) Die Jahresabgaben von MZFR, KNK und AVR sind in den Abgaberaten der Kernforschungszentren Karlsruhe und Jülich enthalten (Tabelle 4)
+2) langlebige Aerosole ohne Jod 131
+3) einschließlich Nachweisgrenzen
+n.b.: nicht bilanziert
+6,2E+12 = 6,2.10 12
+Tabelle 3
+Jahresabgabe radioaktiver Stoffe mit Abwasser aus Kernkraftwerken im Jahr 1980 in Becquerel
+(Jahresabgaben 1979 in Klammern)
+Kernkraftwerk	Spalt- und Aktivierungs-		Tritium		Gesamt-Alpha-Aktivität	
+	Produkte (außer Tritium)					
+Kahl 		1,9E+08	(2,6E+08)	1,8E+10	(1,1E+11)	7,4E+05	( 4,1E+05)
+Gundremmingen. . 		5,1E+08	(8,3E+09)	6,4E+09	(2,6E+10)	1,9E+06	( 5,9E+06)
+Lingen 		4,7E+08	(9,3E+08)	8,5E+09	(2,8E+10)	2,9E+05	(-)
+Obrigheim 		3,0E+09	(6,3E+09)	3,1E+12	(5,0E+12)	1,9E+06	(&lt;2,2E+07)
+Stade 		3,0E+09	(9,7E+09)	2,3E+12	(5,4E+12)	6,8E+05	( 1,3E+06)
+Würgassen 		1,0E+10	(1,6E+10)	2,1E+12	(1,5E+12)	2,7E+06	( 3,8E+06)
+Biblis A 		2,6E+09	(1,9E+09)	1,5E+13	(6,2E+12)	3,7E+05	( 1,1E+06)
+Biblis B 		8,6E+09	(7,8E+09)	2,0E+13	(1,2E+13)	-	( 1,9E+06)
+Neckarwestheim. . . 		3,0E+08	(2,1E+09)	3,0E+12	(3,8E+12)	8,1E+05	( 2,1E+06)
+Brunsbüttel 		9,8E+09	(1,7E+10)	8,9E+10	(8,5E+10)	5,5E+05	( 1,7E+06)
+Isar 		5,9E+09	(9,6E+09)	1,4E+12	(8,0E+11)	1,4E+07	( 1,5E+06)
+Unterweser 1) 		4,3E+09	(2,5E+09)	8,8E+12	(4,0E+12)	&lt;1,8E+06	(&lt;1,4E+06)
+Philippsburg 		4,4E+09	(1,4E+10)	3,8E+11	(7,8E+10)	4,4E+06	(-)
+1) einschließlich Nachweisgrenzen
+
+Tabelle 4
+Jahresabgaben radioaktiver Stoffe aus Kernforschungszentren im Jahre 1980 in Becquerel
+(Jahresabgaben im Jahre 1979 in Klammern)
+Kernforschungs-				Abluft				Spalt- und	Abwasser	
+	Edelgase	Aerosole	Jod 131	Jod 129	Tritium	Kohlenstoff 14	Strontium 90		Tritium	Alphastrahler
+zentrum								Aktivierungs-		
+								produkte		
+								(ohne Tritium)		
+Kern-										
+forschungs-										
+zentrum										
+Karlsruhe										
+(einschließlich										
+Wiederauf-										
+bereitungs-										
+anlage).	.	3,7E+15	2,8E+091)	&lt;8,5E+08	&lt;1,2E+08	6,0E+13	&lt;1,3E+12	&lt;2,9E+08	8,0E+08	6,7E+13	6,7E+072)
+	(4,5E+15)	(7,4E+09)1)	(&lt;1,5E+08)	(&lt;1,0E+08)	(5,5E+13)	(n.b.)	(&lt;5,5E+08)	(6,3E+08)	(1,2E+14)	(8,5E+07)2)
+Kern-										
+forschungs-										
+anlage Jülich										
+(einschließ-										
+lich Versuchs-										
+reaktor										
+AVR). .	.	1,0E+13	4,4E+103)	5,0E+06	5,2E+04	7,8E+12	2,0E+11	4,0E+03	3,6E+09	1,3E+13	&lt;7,3E+07
+	(9,7E+12)	(9,2E+10)3)	(5,9E+06)	(-)	(7,6E+12)	(1,4E+11)	(1,1E+04)	(4,3E+09)	(8,3E+12)	(&lt;7,8E+07)
+1) davon maximal 4,3E+07 (3,7E+07) Becquerel Alphastrahler
+2) davon 1,9E+07 (9,6E+06) Becquerel Plutonium 238 und Plutonium 239/240
+3) davon mehr als 99 v.H. kurzlebig (Halbwertzeit &lt;8 Tage)
+
+Tabelle 5
+Jahresabgaben 1980 radioaktiver Stoffe (Alpha-Aktivität)
+aus kernbrennstoffverarbeitenden Betrieben in Becquerel
+(Jahresabgaben 1979 in Klammern)
+Betrieb	Abluft	Abwasser
+ALKEM GmbH (Hanau) . .	&lt;1,9E+04	6,2E+05
+	(&lt;1,9E+04)	(8,1E+05)
+NUKEM GmbH (Hanau)	.	5,0E+06	1,4E+09
+	(2,6E+07)	(1,9E+09)
+Reaktor-Brennelement		
+Union GmbH		
+Werk  (Hanau) 		1,1E+08	4,4E+09
+	(1,1E+08)	(1,2E+10)
+Werk II (Karlstein) 		3,5E+04	1,5E+08
+	(5,7E+04)	(1,7E+08)
+EXXON Nuclear GmbH	&lt;7,8E+03	1)
+(Lingen) 		(&lt;1,2E+04)	(-)1)
+1) keine Abgaben über Abwasser
+Tabelle 6
+Strahlenexposition im Jahre 1980 in der Umgebung von Kernkraftwerken
+durch die Abgabe radioaktiver Stoffe mit der Abluft in Mikrosievert
+(Nach der Strahlenschutzverordnung darf die Strahlenexposition des Ganzkörpers hierbei
+höchstens 300 Mikrosievert und die Strahlenexposition der Schilddrüse eines Kleinkindes über Ernährungsketten
+höchstens 900 Mikrosievert pro Jahr betragen)
+Kernkraftwerke	Oberer Wert der Strahlenexposition 1)	Mittelwert der Strahlenexposition
+	des Ganzkörpers	der Schilddrüse	des Ganzkörpers Erwachsener für die
+	Erwachsener über	eines Kleinkindes	Bevölkerung im Umkreis von
+	sämtliche relevante	aus gesamter	0 bis 3 km	0 bis 20 km
+	Expositionspfade	Inhalation und	
+	Ingestion	
+Kahl 		0,7	0,2	0,02	&lt;0,01
+Gundremmingen. . 		0,2	&lt;0,1	&lt;0,01	&lt;0,01
+Lingen 		&lt;0,1	&lt;0,1	&lt;0,01	&lt;0,01
+Obrigheim 		1	0,7	0,1	0,01
+Stade 		0,4	0,2	0,08	&lt;0,01
+Würgassen 		20	300	2)	1	0,1
+Biblis A 			
+Biblis B 		0,7	10	0,1	0,01
+Neckarwestheim . . . 		1	10	0,2	0,02
+Brunsbüttel 		0,4	&lt;0,1	0, 04	&lt;0,01
+Isar 		1	1	0,2	0,01
+Unterweser 		0,2	&lt;0,1	0,01	&lt;0,01
+Philippsburg 		2	0,3	0,1	0,01
+1) berechnet für die ungünstigste Einwirkungsstelle
+2) im Rahmen eines zusätzlich zur Umgebungsüberwachung durchgeführten Untersuchungsprogrammes ergeben wöchentliche Messungen in Milch einen Höchstwert von 12 Mikrosievert
+
+Tabelle 7
+Strahlenexposition in der Umgebung von Kernkraftwerken durch die Abgabe
+radioaktiver Stoffe mit dem Abwasser im Jahr 1980 in Mikrosievert
+(Nach der Strahlenschutzverordnung darf die Strahlenexposition des Ganzkörpers
+hierbei höchstens 300 Mikrosievert pro Jahr betragen)
+Kernkraftwerk	Oberer Wert der	Strahlenexposition des
+	Strahlenexposition des	Ganzkörpers für Gruppen
+	Ganzkörpers für	aus der Bevölkerung 2)
+	Einzelpersonen 1)	
+Kahl 		0,4	&lt;0,1
+Gundremmingen 		0,2	&lt;0,1
+Lingen 		0,2	&lt;0,1
+Obrigheim 		0,5	&lt;0,1
+Stade 		0,2	&lt;0,1
+Würgassen 		1	&lt;0,1
+Biblis A 			
+Biblis B 		0,3	&lt;0,1
+Neckarwestheim 		0,1	&lt;0,1
+Brunsbüttel 		1	&lt;0,1
+Isar 		0,1	&lt;0,1
+Unterweser 		0,1	&lt;0,1
+Philippsburg 		0,1	&lt;0,1
+1) Für Einzelpersonen werden extreme Verzehrsgewohnheiten (z.B. 39 kg Flußfisch pro Jahr, der in der Kühlwasserfahne gefangen wird) und Lebensgewohnheiten zugrunde gelegt.
+2) Für die Bevölkerung werden mittlere Verzehrs- und Lebensgewohnheiten zugrunde gelegt.
+Tabelle 8
+Strahlenexposition im Jahre 1980 in der Umgebung von Kernforschungszentren
+durch die Abgabe radioaktiver Stoffe mit der Abluft') in Mikrosievert
+(Nach der Strahlenschutzverordnung darf die Strahlenexposition des Ganzkörpers hierbei
+höchstens 300 Mikrosievert und die Strahlenexposition der Schilddrüse eines Kleinkindes über Ernährungsketten
+höchstens 900 Mikrosievert pro Jahr betragen)
+	Oberer Wert der Strahlenexposition	Mittelwert der Strahlenexposition
+Kernforschungszentrum	des Ganzkörpers	der Schilddrüse	des Ganzkörpers durch Gammasubmersion
+	über sämtliche	eines Kleinkindes	für die Bevölkerung im Umkreis von
+	Expositionspfade	durch Ingestion von	0 bis 3 km	0 bis 20 km
+	Radiojod	
+Kernforschungszentrum		
+Karlsruhe (einschließlich		
+Wiederaufarbeitungs-		
+anlage) 		1182)	34	9,8	1,2
+Kernforschungsanlage		
+Jülich (einschließlich		
+Versuchsreaktor AVR)	.	133)	19	0,2	&lt;0,02
+1) Ortsdosen; entnommen den Jahresberichten 1980 und nach Angaben der Strahlenschutzabteilungen der Kernforschungszentren Karlsruhe und Jülich
+2) Erwachsene
+3) Kleinkinder
+
+Tabelle 9
+Strahlenexposition im Jahre 1980 in der Umgebung der kernbrennstoffverarbeitenden
+Betriebe durch die Abgabe radioaktiver Stoffe mit der Abluft in Mikrosievert
+(Nach der Strahlenschutzverordnung darf die Strahlenexposition der Lunge hierbei
+höchstens 900 Mikrosievert pro Jahr betragen)
+Betrieb	Oberer Wert der
+	Strahlenexposition
+	der Lunge eines Kleinkindes
+	durch Inhalation
+ALKEM GmbH (Hanau) 		&lt; 0,1
+NUKEM GmbH (Hanau) 		4
+Reaktor-Brennelement Union GmbH 		
+Werk I (Hanau) 		5
+Werk II (Karlstein) 		&lt; 0,1
+EXXON Nuclear GmbH (Lingen) 		&lt; 0,1
+Tabelle 10
+Strahlenexposition im Jahre 1980 in der Umgebung der kernbrennstoffverarbeitenden
+Betriebe durch die Abgabe radioaktiver Stoffe mit dem Abwasser in Mikrosievert
+(Nach der Strahlenschutzverordnung darf die Strahlenexposition des Ganzkörpers
+hierbei höchstens 300 Mikrosievert pro Jahr betragen)
+Betrieb	Oberer Wert der
+	Strahlenexposition
+	des Ganzkörpers
+	Erwachsener
+ALKEM GmbH (Hanau) 		
+NUKEM GmbH (Hanau) 		0,3
+Reaktor-Bauelement Union GmbH 		
+Werk I (Hanau) 		
+Werk II (Karlstein) 		&lt; 0,1
+EXXON Nuclear GmbH (Lingen) 		—
+
+Tabelle 11
+Radioaktive Stoffe enthaltende Industrieerzeugnisse für Wissenschaft, Technik und private Haushalte
+Warengruppe	Einzelprodukt	Enthaltene Radionuklide
+Gas- und Aerosol-Detektoren	Rauch- und Feuermelder	Ra 226, Am 241
+Antistatika	Diverse Vorrichtungen für	Ra 226, Am 241
+	Verhinderung von elektro-	
+	statischen Aufladungen	
+Vorrichtungen mit Tritium-	Notbeleuchtungen	H 3
+gasleuchtröhren		
+Elektronische Bauteile und	Überspannungsableiter	Pm 147
+elektrotechnische Geräte		
+	Elektronenröhren	Co 60, Cs 137, Kr 85, H 3
+Technische und	Prüfstrahler bzw.	Ir 192, Co 60, Cs 137,
+wissenschaftliche Geräte	Eichstrahler	Na 22, C 14, Sr 90,
+		Ba 133, Pb 210, Ra 228
+	Dicken- und Dichte-	Co 60, Kr 85, Sr 90,
+	meßgeräte	Cs 137, Pm 147, Tl 204,
+		Am 241
+	Füllstandsmeßgeräte	Co 60, Cs 137
+	Röntgenfluoreszenzanalysen-	H 3, Pm 147, Cd 109,
+	geräte	Fe 55, Pu 238
+	Gaschromatographen	H 3, Ni 63
+	Geräte für Demonstrations-	Ra 226
+	zwecke, z.B. in Schulen	
+Geräte, die Leuchtfarben	Skalen und Zeiger bei Uhren,	H 3, Pm 147
+enthalten	Kompassen, Luftfahrzeug-	
+	instrumenten	
+Glaswaren für den Gerätebau	Optische Gläser,	Th nat
+	optische Linsen	
+Metallegierungen	Stahl/Thorium-,	Th nat
+	Wolfram/Thorium-,	
+	Molybdän/Thorium-,	
+	Magnesium/Thorium-	
+	legierungen	
+Keramische Gegenstände	Uranfarben für Kacheln	Natürliches oder abgereichertes
+Glaswaren	und Porzellane	Uran
+
+Tabelle 12
+Eingang von schwach- und mittelradioaktiven Rohabfällen aus Industrie, Forschung und Medizin
+in den Landessammelstellen/Großforschungszentren im Jahre 1980
+	aus dem Zuständigkeitsbereich			aus dem Großforschungszentrum		
+		der Landessammelstelle				
+	fest	flüssig	spezial*	fest	flüssig	spezial *
+	m3	m3	m3	m3	m3	m3
+Landessammelstelle/						
+Großforschungszentrum						
+Baden-Württemberg / Kern-	360,2	30,4		3 081,5	5 924,4	
+forschungszentrum Karlsruhe						
+einschließlich der Karlsruher						
+Versuchsreaktoren und der						
+Wiederaufarbeitunganlage						
+WAK						
+Bayern / Gesellschaft für	93,3	28,5	3,7	15,3	4,1	14,9
+Strahlen- und Umwelt-						
+forschung Neuherberg						
+Berlin / Hahn-Meitner-	70,4	6,9	2,1	16,4	82,5	0,004
+Institut für Kernforschung						
+Bremen, Hamburg,			0,3	4,6		
+Schleswig-Holstein,						
+Niedersachsen / GKSS-						
+Forschungszentrum						
+Geesthacht						
+Hessen	21,7		1,3			
+Nordrhein-Westfalen /	375	28	1,8	1 099	4 237	12,5
+Kernforschungsanlage Jülich						
+einschließlich der Jülicher						
+Versuchsreaktoren						
+Rheinland-Pfalz	123	5,5	1,5			
+Saarland			1,2			
+Summe	1 043,6 m3	99,3 m3	11,9 m3	4 216,8 m3	10 248 m3	27,4 m3
+*) radioaktive Abfälle, die nicht den ASSE-Einlagerungsbedingungen entsprechen
+
+Tabelle 13
+Bestände an schwach- und mittelradioaktiven Abfällen aus Industrie, Forscheung und Medizin
+in den Landessammelstellen/Großforschungszentren am 31. Dezember 1980, die den bisherigen
+ASSE-Einlagerungsbedingungen genügen würden
+	Rohabfälle			Endabfälle	
+	fest	flüssig	einschließlich	Gebindezahl	Gebindeart
+	m3	m3	Abschirmung		
+			m3		
+Landessammelstelle/					
+Großforschungszentrum					
+Baden-Württemberg / Kern-	3 855	85		1 330,8	6 654	200 l-Faß
+Forschungszentrum Karlsruhe			402,4	1 006	400
+einschließlich der Karlsruher			5 222,4	4 352	VBA *
+Versuchsreaktoren und der					
+Wiederaufarbeitungsanlage					
+WAK					
+Bayern / Gesellschaft für	1	2		200,0	1 000	200 l-Faß
+Strahlen- und Umwelt-					
+forschung Neuherberg					
+Berlin / Hahn-Meitner-	64		93,0	465	200 l-Faß
+Institut für Kernforschung			1,6	4	400 l-Faß
+Bremen, Hamburg,			22,6	113	200 l-Faß
+Schleswig-Holstein,			5,2	13	400 l-Faß
+Niedersachsen / GKSS-			2,4	2	VBA
+Forschungszentrum					
+Geesthacht					
+Hessen	4		54,0	270	200 l-Faß
+			0,4	1	400 l-Faß
+Nordrhein-Westfalen /	1 418	248		495,8	2 479	200 l-Faß
+Kernforschungsanlage Jülich			9,2	23	400 l-Faß
+einschließlich der Jülicher					
+Versuchsreaktoren					
+Rheinland-Pfalz	3		81,0	405	
+Saarland			5,6	28	200 l-Faß
+Summe	5 342 m3	338 m3		7 926,4 m3	16 815	
+*) armierte Betonabschirmung mit eingesetzten 2001 Metallbehältern, sogenannte verlorene Betonabschirmung
+
+Tabelle 14
+Übersicht über die nach der StrlSchV anzeigepflichtigen Vorkommnisse für das Jahr 1980 *)
+§§ 36, 66 Abs. 2, 79 und 80 Abs. 1 der StrlSchV vom 13. Oktober 1976
+Datum	Vorkommnis	Ursache	radiologische Folgen	Beurteilung
+				der radiologischen
+				Folgen/Bemerkungen
+1	2	3	4	5
+April 1979 (Nachtrag)	Beteiligung von nicht in der Beförderungsgenehmigung genannter Firmen an einem Transport radioaktiver Stoffe	Unkenntnis der nationalen Vorschriften und mangelnde Organisation	keine	
+Dezember 1979	Verschlußstörung an einer medizinischen Gammabestrahlungseinrichtung 	2 ungesicherte, aus der Rutschkupplung des Verschlußgetriebes herausgefallene Schrauben	keine, da Fehler schnell bemerkt und Patient unverzüglich aus dem Bestrahlungsraum gebracht wurde	alle Aufsichtsbehörden wurden umgehend informiert; die Schrauben sind in- zwischen zusätzlich gesichert
+(Nachtrag)				
+Januar 1980	Feststellung des Verlustes eines umschlossenen Ra-226Präparates mit ca.	mangelhafte Sicherung	keine, da unversehrt	
+	0,5 mCi (Prüfstrahler)		wieder aufgefunden	
+Januar 1980	Sicherstellung radiaktiv belegter Uhrenziffernblätter und -zeiger	Verstoß gegen Bestimmungen der StrlSchV	geringfügige Inkorporationen bei Hilfspersonen	Werte der Inkorporationsmessungen
+				lagen weit unterhalb der zulässigen Grenzwerte
+Januar 1980	Verlust von 8 Kunststoffbehältern mit ca. 200 µ, Ci J-125	organisatorische Mängel (vermutlich Verwechslung mit Chemikalienbehältern)	wurden nicht festgestellt	im Hinblick auf geringe Aktivität und kurze Halbwertzeit ist mit radiologischen Folgen nicht zu rechnen
+21. 1. 1980	Bruch einer Chemieabwasserleitung in der Nähe eines Versuchsreaktors	Leitungsriß durch äußere Einwirkung	keine	Abwasserleitung wurde verlegt und zur Beobachtung des Grundwassers wurde ein Kontrollbrunnen angelegt
+2. 1980	Strahlenexposition von 4 Technikern, die mit Wartungsarbeiten in einem Krankenhaus beschäftigt waren	Konstruktionsmangel	Strahlenexposition von 40, 300, 400 und 2 800 mrem	keine gesundheitlichen Schäden zu erwarten; Konstruktionsmangel wurde beseitigt
+2. 1980	Mangelhafte Bereifung eines Fahrzeugs, das abgebrannte Brennelemente transportierte	Fahrlässigkeit	keine	verschärfte Aufsicht für betroffene Firmen angeordnet
+*) Auf die ergänzende Berichterstattung „Besondere Vorkommnisse in Kernkraftwerken der Bundesrepublik Deutschland" wird hingewiesen.
+
+noch Tabelle 14
+Datum	Vorkommnis	Ursache	radiologische Folgen	Beurteilung
+				der radiologischen
+				Folgen/Bemerkungen
+1	2	3	4	5
+22. 2. 1980	Kontamination des Fußbodens in dem Lager eines Forschungsinstituts	Undichtigkeit eines gelagerten Behälters (Faß)	Kontaminationen von Personen und der Umgebung wurden nicht festgestellt	da Vorkommnis innerhalb des Kontrollbereichs, sind nach Dekontamination keine Folgen zu erwarten
+2. 1980	Bruch einer Verbindung an einem Tankwagen bei der Abholung radioaktiver Abwässer	defekter Verschluß	keine, da die Kontamination vollständig beseitigt wurde	
+2. 1980	Beschädigung einer Tritiumgaslichtquelle	unsachgemäßes Arbeiten	geringfügige Inkorporation bei einer Person	die Werte der Inkorporationsmessungen lagen unterhalb der Nachweisgrenzen
+März 1980	Ungenehmigter Transport radioaktiver Stoffe	Verstoß gegen StrlSchV	keine	die vorhandene Genehmigung umfaßte den fraglichen Transport nicht
+März 1980	Feststellung eines sicherheitstechnisch bedeutsamen Feh- lers an einer fernbedienten Applika- tionsanlage	Konstruktionsmangel	keine, da Fehler bei einer Gerätevorführung festgestellt	alle Aufsichtsbehörden wurden umgehend unterrichtet
+März 1980	Das Fingerringdosimeter einer Krankenschwester zeigte eine Dosis von	vermutlich wurde das Dosimeter in der Nähe radioaktiver Stoffe aufbewahrt	medizinische Untersuchung ohne Befund	die Tätigkeit in strahlenexponierten Bereichen wurde vorsorglich eingeschränkt
+	140 rem an			
+	Vertrieb nichtbauartzugelassener Ionisationsrauchmelder	Verstoß gegen BeStimmungen der StrlSchV	keine	Vorkommnis wurde zum Anlaß genommen, die Aufsicht in diesem Bereich zu verstärken
+März 1980	Das Glasdosimeter eines Materialpräfers in einem KKW	unbekannt	keine, da gleichzeitig getragene andere Dosimeter keinen entsprechenden	
+	zeigte eine Dosis von 25 rem an		Wert aufwiesen	
+März 1980	Auf dem Filmdosimeter eines Technikers wurden nach einer Durchstrahlungsprüfung 43 rem festgestellt	Dosimeter war im Strahlenfeld liegengelassen worden	keine, da nur Dosimeter bestrahlt	
+
+noch Tabelle 14
+Datum	Vorkommnis	Ursache	radiologische Folgen	Beurteilung
+				der radiologischen
+				Folgen/Bemerkungen
+1	2	3	4	5
+10. 3. 1980	Verlust eines Präparates mit 2 µCi J-125	Fahrlässigkeit	aufgrund geringer Aktivität und kurzer Halbwertzeit nicht zu erwarten	
+	als Tracer-Substanz			
+12. 3. 1980	Überschreitung der Kurzzeitabgabewerte für J-131	organisatorische Mängel	keine	Betriebsvorschriften wurden verbessert
+14. 3. 1980	Überschreitung der Kurzzeitabgabewerte für J-131	beim Auffüllen eines Kühlmittelspeichers wurde jodhaltiges Gas über die Entlüftungsleitung in das Hilf sanlagengebäude freigesetzt	keine	spezielle Anweisungen für die Verhinderung ähnlicher Vorkommnisse wurden erlassen
+27. 3. 1980	Dampfaustritt im Maschinenhaus eines KKW	defekte Dichtung	geringfügiger Aktivitätsanstieg am	weder für das Personal noch für die Umgebung wurde eine erhöhte Strahlenbelastung registriert
+			Kamin	
+27. 3. 1980	2 Versandstücke mit radioaktiven Stoffen fielen in einer Flughafenhalle von	Unachtsamkeit	keine, da die Haschen mit der J-125Lösung unbeschädigt blieben	
+	einem Gabelstapler und wurden beschädigt			
+30. 3. 1980	Vorübergehender Verlust von 3 Präparaten (2 x 9 µ Ra-226 und 1 x 1 µCi Th-232) an einer Fachhochschule	Diebstahl aus einem gesicherten Stahlsehrank	nicht zu erwarten, da die Präparate am	
+			10. 4. 1980 unversehrt wieder aufgefunden wurden	
+10. 4. 1980	Typ-A-Verpackung mit 2 mCi flüssiger J-131-Lösung wurde völlig zerstört	Verkehrsunfall	keine, da das vorgeschriebene saugfähige Material die Flüssigkeit nahezu vollständig zurückhielt	das Vorkommnis
+				zeigt, daß das z. Z. nur auf nationaler Ebene vorgeschriebene saugfähige Material auch in den internationalen Verkehrsbestimmungen gefordert werden muß
+17. 5. 1980	Aktivitätsanstieg im Heizdampfsystem	Austritt von Kondensat durch Undichtigkeit an einem Auflöser	keine	Auflöser wurde ausgetauscht
+29. 5. 1980	Verlust von 5 Strahlern, die zur Schichtdickenmessung verwendet werden	Diebstahl des Panzerschranks, in dem die Strahler aufbewahrt wurden	keine, da die Strahler am 31. 5. 1980 vollzählig wieder aufgefunden wurden	
+
+noch Tabelle 14
+Datum	Vorkommnis	Ursache	radiologische Folgen	Beurteilung
+				der radiologischen
+				Folgen/Bemerkungen
+1	2	3	4	5
+13. 6. 1980	Fund eines leeren Behälters für Technetium-Generatoren in einer Sparkasse	Vergeßlichkeit	keine, da Behälter leer und nicht kontaminiert war	
+25. 6. 1980	Verlust von 7 Präparaten mit je 0,57 p Ci J-125 im Rahmen einer medizinischen Anwendung	Mängel bei der Anwendung	nicht festgestellt	im Hinblick auf die metallische Umschließung und die kurze Halbwertzeit sind radiologische Folgen nicht zu befürchten; bessere Überwachungsmaßnahmen wurden angeordnet
+Juli 1980	Fund radioaktiver Gesteinsproben auf einem Bergwerksgelände	Gelände des stillgelegten Bergwerks war öffentlich zugänglich	keine, da es sich um Bohrkerne mit natürlich radioaktiven Lesteinsproben geringer Aktivität handelte	
+Juli 1980	Freisetzung von 19,5 mCi J-131 über Abluftanlage und Kamin eines Forschungszentrums	Falsche Deklaration einer Flasche mit 301 radioaktiven Abfall- Stoffen	Verdacht der Inkorporation radioaktiver Stoffe bei 4 Personen	Messungen im Ganzkörperzähler ergaben keinen Hinweis auf erhöhte Jod-Inkorporation
+Juli 1980	Filmdosimeter einer Krankenschwester zeigte eine Dosis von 21 rem an	Dosimeter fahrlässig oder absichtlich im Bestrahlungsraum liegengelassen	keine, da mitbenutztes Vergleichsdosimeter keinen entsprechenden Wert anzeigte	
+Juli 1980	Jodfreisetzung in einem Forschungszentrum	falsche Deklaration von Abfällen, die zur Verbrennung gebracht wurden	keine	weitere Absenkung der max. zulässigen Jodableitung
+2./3. 7. 1980	Brand im Radionuklidlabor eines Instituts	Defekt in der Elektroinstallation	keine, da die radioaktiven Stoffe bis auf wenige nCi C-14 geborgen wurden	Freigrenze für C-14: 10 000 nCi
+19. 7. 1980	Ca. 10 m3 radioaktive Abwässer wurden über die Chemierohrleitung direkt in die Klärbecken abgelassen	Fehlschaltung von 2 Ventilen	keine	Radioaktivität wurde im Klärbecken gesammelt; Betriebsanweisung wurde geändert
+3. 8. 1980	Erhöhung des Tritiumpegels in den Anlagenräumen eines KKW	Kleinleckage an dem Entwässerungsventil des Moderatorkreislaufes	keine	Dichtung des Ventils wurde erneuert
+
+noch Tabelle 14
+Datum	Vorkommnis	Ursache	radiologische Folgen	Beurteilung
+				der radiologischen
+				Folgen/Bemerkungen
+1	2	3	4	5
+28./29.8.	Überlaufen einer Sammelanlage für radioaktive Abwässer	versehentliches Offenlassen eines Frischwasserzulaufs im Laborbereich	keine, da das Abwasser im Rahmen des	
+1980			§ 46 (4) StrlSchV abgegeben u. Kontaminationen nicht festgestellt werden konnten	
+September 1980	Unregelmäßigkeiten bei Radiografiearbeiten	Verstöße gegen StrlSchV	keine	Bußgeldverfahren wurde zwischenzeitlich rechtskräftig abgeschlossen
+7.9.1980	Fund eines radioaktiven Präparates mit ca. 26 µCi Ga-67 (vorübergehender Verlust)	nicht bekannt, evtl. Diebstahl auf dem Transportweg	keine, da das Präparat nicht aus der Verpackung genommen wurde	
+10.9.1980	Fund von 2 Fässern, die mit dem Strahlenwarnzeichen versehen waren	demonstrative Aktion	keine	
+9. 1980	Auf dem Filmdosimeter von 2 Technikern wurden nach Materialprüfungsarbeiten erhöhte Strahlenbelastungen festgestellt	technische Störung an einem Radiografiegerät	aus den geschätzten Abständen und Aufenthaltszeiten wurde eine Ganzkörperbelastung von 20 rem (Handbelastung	Die Tätigkeit in strahlenexponierten Bereichen wurde eingeschränkt; das Radiografiegerät ist einer Überprüfung durch die Herstellerfirma zu unterziehen
+			2 300 rem) berechnet	
+9. 1980	Freisetzung von ca. 30 mCi Rb-81 und ca. 10 mCi Kr-81 in	Zerplatzen eines Targets	keine	
+	einem Forschungsinstitut			
+Okt. 1980	Fund von 2 Ampullen mit Sr-90 auf dem Dachboden eines Betriebes	Verstoß gegen die StrlSchV, da die 1954 erworbenen radioaktiven Stoffe nach Inkrafttreten der	nach ordnungsgemäßer Beseitigung der radioaktiven Stoffe nicht zu erwarten	
+		1. StrlSchV nicht ordnungsgemäß angezeigt wurden		
+Okt. 1980	Verlust von 3 Urandioxid-Pellets	Diebstahl aus einer BrennelementFabrik	aufgrund des geringen Gefährdungspotentials (schwach angereichertes Uran) ist mit radiologischen Folgen nicht zu rechnen	
+24.10.1980	Erhöhung der J-131Emission	Undichtigkeit einer Leckagesammelleitung	keine	Leitung wurde ersetzt
+
+Datum	Vorkommnis	Ursache	radiologische Folgen	Beurteilung
+				der radiologischen
+				Folgen/Bemerkungen
+1	2	3	4	5
+Nov. 1980	Die Strahlenquelle einer Gammabestrahlungsanlage (20 kCi Co-60) ließ sich nicht mehr in den Abschirmbehälter zurückfahren	technische Störung	geringfügige Strahlenexposition des Reparaturpersonals	kein Strahlenrisiko für die Umgebung, da die Quelle umschlossen ist und sich in einem Strahlenbunker befindet.
+10. 11. 1980	Aus der Abklinganlage einer Klinik gelangten 100 mCi J-131 in die Kanalisation	vermutlich Bedienungsfehler	geringe Kontamination der Kläranlage	wegen geringer Aktivität, kurzer Halbwertzeit und großer Verdünnung keine Gefährdung der Bevölkerung
+
+Tabelle 15
+Durchführungsrichtlinien zur Strahlenschutzverordnung
+1. Merkposten zu Antragsunterlagen in den Genehmigungsverfahren für Anlagen zur Erzeugung ionisierender Strahlen vom 19. Januar 1978 (GMBl. 1978, Seite 51)
+2. Kontrolle der Eigenüberwachung radioaktiver Emissionen aus Kernkraftwerken vom 10. Mai 1978 (GMBl. 1978, Seite 313)
+3. Genehmigung gemäß § 8 Abs. 1 StrlSchV zur Beförderung radioaktiver Stoffe für Durchstrahlungsprüfungen im Rahmen der zerstörungsfreien Materialprüfung vom 29. Mai 1978 (GMBl. 1978, Seite 334)
+4. Richtlinie für die physikalische Strahlenschutzkontrolle (§§ 62 und 63 StrlSchV) vom 5. Juni 1978 (GMBl. 1878, Seite 348)
+5. Genehmigungen gemäß § 3 Abs. 1 StrlSchV zur ortsveränderlichen Verwendung und Lagerung umschlossener radioaktiver Stoffe für Durchstrahlungsprüfungen im Rahmen der zerstörungsfreien Materialprüfung vom 23. Juni 1978 (GMBl. 1978, Seite 371)
+6. Richtlinie für den Strahlenschutz des Personals bei der Durchführung von Instandsetzungsarbeiten in Kernkraftwerken mit Leichtwasserreaktor: Die während der Planung der Anlage zu treffende Vorsorge vom 10. Juli 1978 (GMBl. 1978, Seite 418)
+7. Genehmigungen gemäß § 20 a Strahlenschutzverordnung vom 18. Juni 1978 (GMBl. 1978, Seite 426)
+8. Richtlinie für die Bauartzulassung von Ionisationsrauchmeldern (IRM) vom 31. Oktober 1978 (GMBl. 1978, Seite 618)
+9. Grundsätze für die ärztliche Überwachung von beruflich strahlenexponierten Personen (Schriftenreihe des Bundesministers des Innern, Band 9, 1978)
+10. Genehmigungen gem. § 3 Abs. 1 StrlSchV oder § 6 AtG für die Zwischenlagerung von abgereichertem bzw. natürlichem und angereichertem Uran in Form von Uranhexafluorid (UF6) vom 15. Februar 1979 (GMBl. 1979, Seite 91)
+11. Richtlinien über Prüffristen bei Dichtheitsprüfungen an umschlossenen radioaktiven Stoffen vom 23. März 1979 (GMBl. 1979, Seite 120)
+12. Anforderungen an die nach Länderrecht zuständige Meßstelle nach § 63 Abs. 3 Satz 1 StrlSchV und § 40 Abs. 2 Seite 4 RöV vom 3. Juli 1979 (GMBl. 1979, Seite 441)
+13. Allgemeine Berechnungsgrundlage für die Strahlenexposition bei radioaktiven Ableitungen mit der Abluft oder in Oberflächengewässer (Richtlinie zu § 45 StrlSchV) vom 15. August 1979 (GMBl. 1979, Seite 371)
+14. Auslegung des § 4 Abs. 4 Satz 1 Nr. 2 e StrlSchV vom 20. September 1979 (GMBl. 1979, Seite 631)
+15. Richtlinie zur Emissions- und Immissionsüberwachung kerntechnischer Anlagen vom 16. Oktober 1979 (GMBl. 1979, Seite 668)
+16. Richtlinie für den Strahlenschutz bei Verwendung radioaktiver Stoffe und beim Betrieb von Anlagen zur Erzeugung ionisierender Strahlen und Bestrahlungseinrichtungen mit radioaktiven Quellen in der Medizin (Richtlinie Strahlenschutz in der Medizin) vom 18. Oktober 1979 (GMBl. 1979, Seite 638)
+17. Vereinbarung über die Anwendung der Richtlinie für die Bauartzulassung von Ionisationsrauchmeldern (IRM) vom 21. Februar 1980 (GMBl. 1980, Seite 187)
+18. Rahmenempfehlung für die Fernüberwachung von Kernkraftwerken vom 6. Oktober 1980 (GMBl. 1980, Seite 577)
+19. Rahmenrichtlinie zu Überprüfungen nach § 76 StrlSchV vom 4. Dezember 1980 (GMBl. 1981, Seite 26)
+20. Rahmenempfehlung für den Katastrophenschutz in der Umgebung kerntechnischer Anlagen; JodMerkblätter zu Kapitel D 5 „Ausgabe von Jod-Tabletten" vom 11. März 1981 (GMBl. 1981, Seite 191)
+21. Rahmenempfehlung für den Katastrophenschutz in der Umgebung kerntechnischer Anlagen; Ergänzung: Maßnahmen zur medizinischen Betreuung im Rahmen des Katastrophenschutzes in der Umgebung kerntechnischer Anlagen vom 9. März 1981 (GMBl. 1981, Seite 188)
+22. Musterbenutzungsordnung der Landessammelstellen für radioaktive Abfälle in der Bundesrepublik Deutschland vom 17. März 1981 (GMBl. 1981, Seite 163)
+23. Berechnungsgrundlage für die Ermittlung der Körperdosis bei innerer Strahlenexposition (Richtlinie zu § 63 StrlSchV) vom 10. August 1981 (GMBl. 1981, Seite 322)
+24. Richtlinie für den Strahlenschutz des Personals bei der Durchführung von Instandhaltungsarbeiten in Kernkraftwerken mit Leichtwasserreaktor; Teil II: Die Strahlenschutzmaßnahmen während der Inbetriebsetzung und des Betriebs der Anlage vom 4. August 1981 (GMBl. 1981, Seite 363)
+25. Grundsätzliche Konzeption für den Ausbau der Landessammelstellen für radioaktive Abfälle vom
+26. Oktober 1981 (GMBl. 1981, Seite 511)
+26. Genehmigung gemäß § 8 Abs. 1 StrlSchV zur Beförderung radioaktiver Stoffe für Durchstrahlungsprüfungen im Rahmen der zerstörungsfreien Materialprüfung vom 20. November 1981 (GMBl. 1982, Seite 22)
+27. Durchführung der Strahlenschutzverordnung und der Röntgenverordnung; Berichterstattung über besondere Vorkommnisse vom 14. Dezember 1981 (GMBl. 1982, Seite 61)
+
+Abbildung 1
+Häufigkeitsverteilung der Jahres-Personendosen
+
+Anhang:
+Erläuterung der benutzten Fachausdrücke
+Aerosol	Gase mit festen oder flüssigen Schwebeteilchen
+Aktivität	Größe, die die Zahl der je Sekunde zerfallenden Atomkerne eines radioaktiven
+	Stoffes angibt
+Alphastrahler	Radionuklide, die Alphateilchen (Heliumatomkerne) aussenden
+Äquivalentdosis	Produkt aus Energiedosis und Bewertungsfaktor. Die Äquivalentdosis ist das Maß für die Wirkung einer ionisierenden Strahlung auf den Menschen
+Becquerel	SI-Einheit der Aktivität. Die Aktivität von 1 Becquerel (Bq) liegt vor, wenn 1 Atomkern je Sekunde zerfällt
+	1 Becquerel (Bq) = 2,7 • 10-11 Curie
+Betastrahlung	Teilchenstrahlung, die aus beim radioaktiven Zerfall von Atomkernen ausgesandten
+	Elektronen besteht
+Betasubmersion	Strahlenexposition durch Betastrahlung von radioaktiven Gasen in der Atmosphäre
+	(wörtlich: durch Untertauchen in eine Wolke)
+Curie	Alte Einheit der Aktivität. Die Aktivität von 1 Curie (Ci) liegt vor, wenn 37 Mrd.
+	Atomkerne je Sekunde zerfallen
+	1 Curie (Ci) = 3,7 • 1010 Becquerel
+Dekontamination	Beseitigung von radioaktiven Verunreinigungen
+Dosis	Siehe Energiedosis und Äquivalentdosis
+Energiedosis	Absorbierte Strahlungsenergie je Masseneinheit
+Fall-out	Radioaktiver Niederschlag aus kleinsten Teilchen in der Atmosphäre, die bei Kernwaffenversuchen entstanden sind
+Gammastrahlung	Sehr kurzwellige elektromagnetische Strahlung, die z. B. beim radioaktiven Zerfall von Atomkernen ausgesandt wird
+Gammasubmersion	Strahlenexposition durch Gammastrahlung von radioaktiven Gasen in der
+	Atmosphäre (wörtlich: durch Untertauchen in eine Wolke)
+Ganzkörperdosis	Mittelwert der Äquivalentdosis über Kopf, Rumpf, Oberarme und Oberschenkel als
+	Folge einer Bestrahlung des ganzen Körpers
+Genetisch signifikante	Mittlere jährliche Keimdrüsendosis pro Person in einer Bevölkerung, gewichtet für
+Jahresdosis	jede Einzelperson mit der Wahrscheinlichkeit der Kindeserwartung nach der
+	Strahlenexposition
+Gray	SI-Einheit der Energiedosis
+	1 Gray (Gy) = 1 Joule/kg = 100 Rad
+Ingestion	Allgemein: Nahrungsaufnahme
+	speziell:	Aufnahme von radioaktiven Stoffen mit der Nahrung
+Inhalation	Allgemein: Einatmung von Gasen
+	speziell:	Aufnahme von radioaktiven Stoffen mit der Atemluft
+Inkorporation	Allgemein: Aufnahme in den Körper
+	speziell:	Aufnahme radioaktiver Stoffe in den menschlichen Körper
+Ionisierende	Elektromagnetische oder Teilchenstrahlen, die die Bildung von Ionen bewirken
+Strahlen	können (z. B. Alphastrahlen, Betastrahlen, Gammastrahlen, Röntgenstrahlen)
+Isotop	Abart eines chemischen Elements mit gleichen chemischen Eigenschaften (gleicher
+	Ordnungszahl), aber verschiedener Massenzahl
+Keimdrüsendosis	Mittelwert der Äquivalentdosis über die Keimdrüsen
+Kontamination	Verunreinigung mit radioaktiven Stoffen
+Kosmische Strahlung	Sehr energiereiche Strahlung aus dem Weltraum
+Median	s. Zentralwert
+Nuklearmedizin	Anwendung radioaktiver Stoffe in der Medizin zu diagnostischen und therapeutischen Zwecken
+Nuklid	Durch Protonenzahl und Massenzahl charakterisierte Atomart
+
+Organdosis	Mittelwert der Äquivalentdosis über ein Organ
+Ortsdosisleistung	Äquivalentdosis an einem bestimmten Ort während einer bestimmten Zeitdauer,
+	geteilt durch die Zeitdauer
+Rad	Alte Einheit der Energiedosis
+	1 Rad (rad) = 10 Milligray
+radioaktive Stoffe	Stoffe, die Radionuklide enthalten
+Radioaktivität	Eigenschaft mancher chemischer Elemente bzw. Nuklide, ohne äußere Einwirkung
+	dauernd Strahlung auszusenden
+Radiographiegerät	Gerät zur zerstörungsfreien Durchstrahlungsprüfung von Materialien mittels Radio-
+	nuklide
+Radiojod	Radioaktive Jodisotope
+Radionuklide	Instabile Nuklide, die unter Aussendung von Strahlung in andere Nuklide zerfallen
+Rem	Alte Einheit der Äquivalentdosis
+	1 Rem (rem) = 10 Millisievert
+Röntgen	Alte Einheit der Ionendosis
+	1 Röntgen (R) = 258 RC/kg
+SI-Einheiten	Abschließend mit der Dritten Verordnung zur Änderung der Ausführungsverordnung
+	zum Gesetz über Einheiten im Meßwesen (BGBl. I 1981, S. 422) ist das System SI-
+	Einheiten (Système International d'Unités) in das Strahlenschutzmeßwesen einge-
+	führt worden. Die Übergangsregelung für die alten Einheiten gilt bis zum 31. 12. 1985
+Sievert	SI-Einheit der Äquivalentdosis
+	1 Sievert (Sv) = 1 Joule/kg = 100 Rem
+	(bei Bewertungsfaktor = 1)
+	1 Sievert = 1000 Millisievert = 1 000 000 Mikrosievert
+Somatisches	Risiko der körperlichen Schädigung der von der Bestrahlung betroffenen Person, zur
+Strahlenrisiko	Unterscheidung vom genetischen Risiko, das für die Schädigung der Folgegeneratio-
+	nen besteht
+Stochastisch	Zufallsabhängig
+Strahlenbelastung	Siehe Strahlenexposition
+Strahlenexposition	Einwirkung ionisierender Strahlen auf den menschlichen Körper oder seine Teile
+Terrestrische Strahlung	Strahlung der natürlich radioaktiven Stoffe, die überall auf der Erde vorhanden sind
+Tritium	Radioaktives Isotop des Wasserstoffs, das Betastrahlung sehr niedriger Energie aus-
+	sendet. Trinkwasser enthält natürlicherweise ca. 0,2-0,9 Becquerel durch die
+	kosmische Strahlung erzeugtes Tritium pro Liter
+Zentralwert	Mittelwert, der ebensoviel kleinere Werte unter sich hat wie größere Werte über sich</TEXT>
+</DOKUMENT>
