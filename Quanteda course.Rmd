@@ -1,13 +1,15 @@
 ---
 title: "Quanteda course"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 
 
 ## User Notes
 
-This is a Data Preparation Notebook for the Quanteda course organized from Sep 30 to Oct 2. Extracted from the QTA repository on Github (Breznau, Nguyen, Heukamp): https://github.com/hungnguyen167/QTA (ask for permission to join).
+This is a Data Preparation Notebook for the Quanteda course organized from Sep 30 to Oct 2. 
 
 ### Goals:
 
@@ -16,10 +18,9 @@ A. *To identify all Drucksachen that relate to social policy* (redistribution, b
 
 B. *To analyze the content of each social policy Drucksachen* to learn:
 
-  B.1. What policy is being discussed
+  B.1. what policies are identified - what changed? what direction?
   B.2. What is the direction of the discussion (positive, negative, neutral)
   B.3. How does this discussion differ by parties/politicians
-
 
 
 ### Instructions for this code:
@@ -47,14 +48,11 @@ library(pacman)
 
 pacman::p_load("quanteda", "XML", "xml2")
 
-#Long wd. Put 18 folders for 18 voting periods in the parent folder called Bundestag Drucksachen. 
-lwd <- "C:/data/Bundestag Drucksachen"
-
 #Paste function, save for later
 
 pf = function(x)
 {
-  paste(wd,x, sep = "/")
+  paste0("drs09/",x)
 }
 
 ```
@@ -62,10 +60,8 @@ pf = function(x)
 ### Create a file list and an empty data frame for the 9th Bundestag
 
 ```{r import, message = FALSE}
-wd <- paste(lwd, "drs09", sep = "/") # Shorten the wd for each voting period
 
-
-drslist09 <- list.files(wd, pattern = ".xml")
+drslist09 <- list.files("drs09/", pattern = ".xml")
 
 df09 <- data.frame(text = as.character(),
                         date = as.character(),
@@ -101,7 +97,7 @@ colnames(df09) <- c("text", "date","election period","title","document type","id
 ```{r quanteda, message = FALSE}
 ## Convert to corpus
 
-corpusDrs09 <- quanteda::corpus(df09, text_field = "text", docid_field = "id" )
+corpusDrs09 <- corpus(df09, text_field = "text", docid_field = "id" )
 
 ## Create a title-as-texts corpus
 
@@ -117,22 +113,23 @@ texts(corpusDrs09_title) <- docvars(corpusDrs09, "title")
 Search all text within the Drucksachen for any word in the dictionary.
 Removed the word "Arbeit", "Pflege" and 450/500 Euro jobs words.
 Our list of keywords is in the file dict.txt. 
-Our list of stopwords is in the file negdict.txt
+Our list of words to ignore is in the file negdict.txt
 
 
 ```{r dict, message = FALSE}
 options(encoding = "UTF-8") # Run this to make sure the German language is read properly.
 
-wd <- lwd
-keywords <- readLines(con = pf("dict.txt"), encoding="utf-8") #read from a txt file with all keywords.
+keywords <- readLines(con = "dict.txt", encoding="utf-8") #read from a txt file with all keywords.
 wordlist <- as.list(setNames(keywords,keywords))
 sp_dict <- dictionary(wordlist)
 
 
-# Create a negative dictionary ('stopwords') to skip. Words that have socail policy words in them but do not relate to social policy
+# Create a negative dictionary ('stopwords') to skip. Words that have social policy words in them but do not relate to social policy
 
-keywords1 <- readLines(con = pf("negdict.txt"), encoding="utf-8")
+keywords1 <- readLines(con = "negdict.txt", encoding="utf-8")
+
 stopwords <- as.list(setNames(keywords1,keywords1))
+
 sp_negdict <- dictionary(stopwords)
 
 ```
@@ -167,7 +164,7 @@ dfm_drs09_title <- tokens(corpusDrs09_title) %>%
       stem = FALSE,
       remove_punct = TRUE) %>% 
   dfm_select(pattern = sp_dict) %>%
-  dfm_select(pattern = sp_negdict, selection = "remove", valuetype = "fixed") 
+  dfm_select(pattern = sp_negdict, selection = "remove", valuetype = "fixed")
 
 
 ## Convert to data frame and eliminate rows where all columns have value = 0. 
@@ -183,12 +180,68 @@ df09_new <- df09[which(df09$id %in% newids),]
 
 ## Create new Corpus with only relevant documents
 
-corpDrs09 <- quanteda::corpus(df09_new, text_field = "text", docid_field = "id" )
+corp_drs09 <- quanteda::corpus(df09_new, text_field = "text", docid_field = "id" )
 
 ```
 
-### To Do List
+### Pensions
 
-Improve the dictionary
-Analyze the words in the Title and Drucksachen documents
-Conduct sentiment analysis?
+```{r rente}
+
+# tokenize
+
+tok_drs09 <- tokens(corp_drs09)
+
+docvars(corp_drs09)
+
+# reduce to documents with "rentenversicherung"
+
+corp_drs09_rente <- corpus_subset(corp_drs09, grepl("Rente", docvars(corp_drs09, "title"), fixed = T))
+
+tok_drs09 <- corp_drs09 %>%
+  tokens()
+
+tok_drs09_rente <- corp_drs09_rente %>%
+  tokens()
+
+
+
+```
+
+# contains an increase reference
+
+```{r}
+# This gives us an object that has the word hoehung in context.
+
+rvschg <- kwic(tok_drs09_rente, pattern = "*höhung*", window = 6, case_insensitive = T)
+
+View(rvschg)
+
+dfm_drs09_rente <- tokens(corp_drs09_rente, remove_symbols = T, remove_number = T, remove_punct = T) %>%
+  tokens_remove(stopwords("de")) %>% 
+  dfm() %>%
+  dfm_remove(c("abs","a","h","v","b","dm","nr","i"), valuetype = "fixed")
+
+
+
+
+tok_drs09_rente_h <- tokens_keep(tok_drs09_rente, pattern = "*höhung*", valuetype = "glob", padding = T)
+
+
+dfm_drs09_rente_h <- tok_drs09_rente_h %>% 
+  tokens(remove_symbols = T, remove_number = T, remove_punct = T) %>%
+  tokens_remove(stopwords("de")) %>% 
+  dfm() %>%
+  dfm_remove(c("abs","a","h","v","b","dm","nr","i"), valuetype = "fixed")
+
+# alternative to cutting documents using tokens
+
+tok_drs09_rente_h <- tokens_subset(tok_drs09_rente_h, ntoken(tok_drs09_rente_h) > 0)
+
+topfeatures(dfm_drs09_rente, n = 30)
+topfeatures(dfm_drs09_rente_h, n = 30)
+
+# every document that mentions Rente mentions erhoehung
+
+```
+
