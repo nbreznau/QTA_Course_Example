@@ -28,7 +28,7 @@ rm(list=ls())
 
 library(pacman)
 
-pacman::p_load("quanteda", "XML", "xml2")
+pacman::p_load("quanteda", "XML", "xml2", "dplyr")
 
 #Paste function, save for later
 
@@ -45,7 +45,7 @@ pf = function(x)
 
 drslist09 <- list.files("drs09/", pattern = ".xml")
 
-df09 <- data.frame(text = as.character(),
+drs09 <- data.frame(text = as.character(),
                         date = as.character(),
                         voting_period = numeric(),
                         title = as.character(),
@@ -61,36 +61,70 @@ df09 <- data.frame(text = as.character(),
 ```{r message = FALSE}
  
 for (i in drslist09){
-  df09[i,1] <- xml_text(xml_find_all(read_xml(pf(i)), "//TEXT"))
-  df09[i,2] <- xml_text(xml_find_all(read_xml(pf(i)), "//DATUM"))
-  df09[i,3] <- xml_text(xml_find_all(read_xml(pf(i)), "//WAHLPERIODE"))
-  df09[i,4] <- xml_text(xml_find_all(read_xml(pf(i)), "//TITEL"))
-  df09[i,5] <- xml_text(xml_find_all(read_xml(pf(i)), "//DOKUMENTART"))
-  df09[i,6] <- xml_text(xml_find_all(read_xml(pf(i)), "//NR"))
+  drs09[i,1] <- xml_text(xml_find_all(read_xml(pf(i)), "//TEXT"))
+  drs09[i,2] <- xml_text(xml_find_all(read_xml(pf(i)), "//DATUM"))
+  drs09[i,3] <- xml_text(xml_find_all(read_xml(pf(i)), "//WAHLPERIODE"))
+  drs09[i,4] <- xml_text(xml_find_all(read_xml(pf(i)), "//TITEL"))
+  drs09[i,5] <- xml_text(xml_find_all(read_xml(pf(i)), "//DOKUMENTART"))
+  drs09[i,6] <- xml_text(xml_find_all(read_xml(pf(i)), "//NR"))
 }
-colnames(df09) <- c("text", "date","election period","title","document type","id")
+colnames(drs09) <- c("text", "date","election period","title","document type","id")
 
 
 
 ```
 
-### From here, start working with Quanteda. Our approach: treat titles as texts. Then use a dictionary and an anti-dictionary to identify documents that are relevant to 
+## CORPUS
 
-```{r corpus, message = FALSE}
-## Convert to corpus
+### Create Document Type Field
 
-corpusDrs09 <- corpus(df09, text_field = "text", docid_field = "id" )
+The type is listed in the first part of the text it can be 
 
-## Create a title-as-texts corpus
+Eigenständige Sachanträge
+Entschließungsanträge
+Änderungsanträge
+Berichte
+Empfehlungen
+Fragen 
+o   Kleine Anfragen
+o   Große Anfragen
+o   Schriftliche Fragen
+o   Vers. Arten mündlicher Fragen
+Gesetzentwürfe
+Verordnung
+Unterrichtung
+Sonstiges
+o   Wahlvorschläge
+o   Begründungen
+o   Berichtigung
 
-corpusDrs09_title <- corpusDrs09
-texts(corpusDrs09_title) <- docvars(corpusDrs09, "title")
+Seems like "Antrag" is also a type of Drucksachen
 
+```{r doctype}
+# create field with first 150 characters of Drucksachen
+drs09$head <- substr(drs09$text, 1,100)
 
+# make a list of types
+types <- list("Antrag*","Entschließung*","Änderungsantr*", "Bericht*","Empfehlung*","Anfrage*","Gesetzent*", "Verordnung*","Unterrichtung*","Wahlvorsch*","Begründung*","Berichtigung","Frage*","Petition*")
 
+type_titles <- c("Antrag","Entschließung","Änderungsantrag","Bericht","Empfehlung","Anfrage","Gesetzentwurf","Verordnung","Unterrichtung","Wahlvorschlag","Begründung","Berichtigung","Frage","Petition")
+
+drs09_type <- select(drs09, id, head)
+
+tok_drs09_type <- drs09_type %>% 
+  corpus(docid_field = "id", text_field = "head") %>%
+  tokens(remove_punct = T, remove_symbols = T, remove_numbers = T)
+
+# dictionary to find types, must be a named list
+list_types <- as.list(types)
+names(list_types)[1:length(list_types)] <- type_titles[1:length(list_types)]
+dict_types <- dictionary(list_types)
+
+test <- tokens_lookup(tok_drs09_type, dict_types)
 ```
 
-## CREATE DICTIONARY
+
+### DICTIONARY
 
 Search all text within the Drucksachen for any word in the dictionary.
 Removed the word "Arbeit", "Pflege" and 450/500 Euro jobs words.
@@ -158,11 +192,11 @@ dfm_drs09_title <- dfm_drs09_title[!(rowSums(dfm_drs09_title[,-1]) == 0),]
 
 newids <- dfm_drs09_title$doc_id
 
-df09_new <- df09[which(df09$id %in% newids),]
+drs09_new <- drs09[which(drs09$id %in% newids),]
 
 ## Create new Corpus with only relevant documents
 
-corp_drs09 <- quanteda::corpus(df09_new, text_field = "text", docid_field = "id" )
+corp_drs09 <- quanteda::corpus(drs09_new, text_field = "text", docid_field = "id" )
 
 ```
 
