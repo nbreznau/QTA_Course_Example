@@ -158,7 +158,7 @@ sp_negdict <- dictionary(stopwords)
 
 ```{r identify, echo = T, message = F, warning = F}
 # Create a dataframe that indicates word matches in titles
-
+corpusDrs09_title <- corpus(drs09, docid_field = "id", text_field = "title")
 drs09df_title <- dfm(corpusDrs09_title, dictionary = sp_dict, remove = stopwords)
 
 # Top 40 most common terms in titles (with stopwords)
